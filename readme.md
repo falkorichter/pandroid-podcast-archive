@@ -1,3 +1,7 @@
+subscribe:
+
+[](https://zxing.org/w/chart?cht=qr&chs=350x350&chld=L&choe=UTF-8&chl=https%3A%2F%2Fraw.githubusercontent.com%2Ffalkorichter%2Fpandroid-podcast-archive%2Fmaster%2Fwaybackmachine%2Ffeed.rss)
+
 http://pandroid.c-base.org/feed/podcast/
 
 20190104074014
