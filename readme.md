@@ -7,6 +7,10 @@ feed URL: [https://raw.githubusercontent.com/falkorichter/pandroid-podcast-archi
 
 http://pandroid.c-base.org/feed/podcast/
 
+# webarchive
+
+If you want to look at the old pandroid, check out [https://web.archive.org/web/20160802100218/https://pandroid.c-base.org/](https://web.archive.org/web/20160802100218/https://pandroid.c-base.org/)
+
 
 # latest error:
 20190104074014
