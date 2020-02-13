@@ -1,0 +1,1631 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:fh="http://purl.org/syndication/history/1.0" >
+
+<channel>
+	<title>pandroid</title>
+	<link>https://pandroid.c-base.org</link>
+	<description>Der ganzheitliche Android-Podcast</description>
+	<lastBuildDate>Thu, 21 Apr 2016 07:59:27 +0000</lastBuildDate>
+	<atom:link rel="self" type="application/rss+xml" title="pandroid ()" href="https://pandroid.c-base.org/feed/podcast/" />
+	<atom:link rel="alternate" type="application/rss+xml" title="pandroid (MP3 Audio)" href="https://pandroid.c-base.org/feed/mp3/" />
+	<atom:link rel="first" href="https://pandroid.c-base.org/feed/podcast/" />
+	<language>de-DE</language>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F&amp;language=de_DE&amp;category=audio&amp;title=pandroid&amp;description=Der+ganzheitliche+Android-Podcast&amp;tags=pandroid" type="text/html" />
+<generator>Podlove Podcast Publisher v1.12.1-alpha</generator>
+	<itunes:author></itunes:author>
+	<itunes:summary>Der ganzheitliche Android-Podcast</itunes:summary>
+<itunes:category text="Technology"><itunes:category text="Gadgets"></itunes:category></itunes:category><itunes:category text="Technology"><itunes:category text="Tech News"></itunes:category></itunes:category><itunes:category text="Technology"><itunes:category text="Podcasting"></itunes:category></itunes:category>
+	
+	<itunes:owner>
+		<itunes:name>Dirk Jäckel</itunes:name>
+		<itunes:email>dirk@pandroid.mobi</itunes:email>
+	</itunes:owner>
+	<itunes:image href="http://bitstaub.diskordia.org/wp-uploads/pandroid1.png" />
+	<itunes:subtitle>Der ganzheitliche Android-Podcast</itunes:subtitle>
+	<itunes:keywords>Android</itunes:keywords>
+	<itunes:block>no</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+
+		<item>
+		<title>PD056 &#8211; Klappe, die Dritte, Action!</title>
+		<link>https://pandroid.c-base.org/2016/04/14/pd056-klappe-die-dritte-action/</link>
+		<pubDate>Thu, 14 Apr 2016 11:53:21 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2016-04-14t10:01:40+00:00-b5b1b7770c6b32b</guid>
+		<description><![CDATA[Android Developer Group Berlin Slack
+
+    https://adg-berlin.herokuapp.com/
+
+http://eshop.macsales.com/shop/ssd/owc/macbook-pro-retina-display/2013
+Android N preview
+
+    http://android-developers.blogspot.de/2016/03/first-preview-of-android-n-developer.html
+    Java8 http://developer.android.com/preview/j8-jack.html
+    150 Geld sparen https://pixel.google.com/developer-discount/
+
+Learning RxJava (for Android) by example
+https://www.youtube.com/watch?v=k3D0cWyNno4
+Peak Google:
+
+    Google Cast Audio funktioniert nicht
+
+Bose SoundLink Mini II als alternative
+Moshi
+
+    https://github.com/square/moshi
+        https://github.com/square/moshi#built-on-okio
+
+KeePass
+
+    Mono + X11 + KeePass
+    KeePassX
+
+1Password
+
+    https://github.com/AgileBits/onepassword-app-extension
+
+ReDex
+
+    https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex/
+
+Google IO
+
+    https://www.google.com/maps/place/Moffett+Field+Historical+Society+Museum/@37.411411,-122.0566892,16.87z/data=!4m2!3m1!1s0x0000000000000000:0x93deb066c0082ec2]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2016%2F04%2F14%2Fpd056-klappe-die-dritte-action%2F&amp;language=de_DE&amp;category=audio&amp;title=PD056+%26%238211%3B+Klappe%2C+die+Dritte%2C+Action%21&amp;description=Android+Developer+Group+Berlin+Slack+https%3A%2F%2Fadg-berlin.herokuapp.com%2F+http%3A%2F%2Feshop.macsales.com%2Fshop%2Fssd%2Fowc%2Fmacbook-pro-retina-display%2F2013+Android+N+preview+http%3A%2F%2Fandroid-developers.blogspot.de%2F2016%2F03%2Ffirst-preview-of-android-n-developer.html+Java8+http%3A%2F%2Fdeveloper.android.com%2Fpreview%2Fj8-jack.html+150+Geld+sparen+https%3A%2F%2Fpixel.google.com%2Fdeveloper-discount%2F+Learning+RxJava+%28for+Android%29+by+example+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dk3D0cWyNno4+Peak+Google%3A+Google+Cast+Audio+funktioniert...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2016/04/14/pd056-klappe-die-dritte-action/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid56.mp3" length="37339533" type="audio/mpeg" /><itunes:duration>00:00:00</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>Android Developer Group Berlin Slack
+
+    https://adg-berlin.herokuapp.com/
+
+http://eshop.macsales.com/shop/ssd/owc/macbook-pro-retina-display/2013
+Android N preview
+
+    http://android-developers.blogspot.de/2016/03/first-preview-of-android-n-developer.html
+    Java8 http://developer.android.com/preview/j8-jack.html
+    150 Geld sparen https://pixel.google.com/developer-discount/
+
+Learning RxJava (for Android) by example
+https://www.youtube.com/watch?v=k3D0cWyNno4
+Peak Google:
+
+    Google Cast Audio funktioniert nicht
+
+Bose SoundLink Mini II als alternative
+Moshi
+
+    https://github.com/square/moshi
+        https://github.com/square/moshi#built-on-okio
+
+KeePass
+
+    Mono + X11 + KeePass
+    KeePassX
+
+1Password
+
+    https://github.com/AgileBits/onepassword-app-extension
+
+ReDex
+
+    https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex/
+
+Google IO
+
+    https://www.google.com/maps/place/Moffett+Field+Historical+Society+Museum/@37.411411,-122.0566892,16.87z/data=!4m2!3m1!1s0x0000000000000000:0x93deb066c0082ec2</itunes:summary>	</item>
+		<item>
+		<title>PD055 &#8211; Cars</title>
+		<link>https://pandroid.c-base.org/2016/02/11/pd055-cars-cars-cars/</link>
+		<pubDate>Thu, 11 Feb 2016 15:17:23 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2016-02-11t14:36:06+00:00-e125a88773a61d9</guid>
+		<description><![CDATA[PD055 - Cars]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2016%2F02%2F11%2Fpd055-cars-cars-cars%2F&amp;language=de_DE&amp;category=audio&amp;title=PD055+%26%238211%3B+Cars&amp;description=Heute+auch+mit+Mirko%2C+Falko+%26amp%3B+Dirk+im+Konferenzraum+bei+sensorberg.+Cars+Autoquartett+https%3A%2F%2Fwww.homami-mobile.com%2Fde%2Fcars+http%3A%2F%2Fgermanycards.de%2F+Bahnhofsquartett+https%3A%2F%2Fgithub.com%2Fpbock%2Fbahnhofsquartett+https%3A%2F%2Fde.wikipedia.org%2Fwiki%2FSupertrumpf+Spielernamen+Volker+Fnord+Informatic0re+Werbearten+rewarded-ads+interstitial+ad+Werbenetzwerke+Admob+https%3A%2F%2Funity3d.com%2Fservices%2Fads+Ad...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2016/02/11/pd055-cars-cars-cars/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD055-Cars.mp3" length="83551594" type="audio/mpeg" /><itunes:duration>01:39:27</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD054 &#8211; 32c3</title>
+		<link>https://pandroid.c-base.org/2016/01/14/pd054-32c3/</link>
+		<pubDate>Wed, 13 Jan 2016 23:33:38 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2016-01-13t22:20:10+00:00-3d89ea55cb25251</guid>
+		<description><![CDATA[<ul>
+	<li><a href="http://www.jsonschema2pojo.org/">http://www.jsonschema2pojo.org/</a>
+<ul>
+	<li><a href="http://json-schema.org/">http://json-schema.org/</a></li>
+</ul>
+</li>
+	<li>Google moving to OpenJDK
+<ul>
+	<li><a href="https://www.codenameone.com/blog/analysis-google-moving-to-openjdk-what-that-really-means.html">https://www.codenameone.com/blog/analysis-google-moving-to-openjdk-what-that-really-means.html</a></li>
+	<li><a href="http://andreasgal.com/2016/01/05/oracle-sinks-its-claws-into-android/">http://andreasgal.com/2016/01/05/oracle-sinks-its-claws-into-android/</a></li>
+</ul>
+</li>
+	<li>Android Dev Summit
+<ul>
+	<li>Playlist: <a href="https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_Tt7q77qwyKRgytF1RzRx8">https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_Tt7q77qwyKRgytF1RzRx8</a></li>
+</ul>
+</li>
+	<li>Ubiquity
+<ul>
+	<li><a href="https://ubiquity.withgoogle.com/">https://ubiquity.withgoogle.com/</a></li>
+</ul>
+</li>
+	<li>32c3
+<ul>
+	<li><a href="https://media.ccc.de/search/?q=32c2">https://media.ccc.de/search/?q=32c2</a></li>
+	<li><a href="https://media.ccc.de/v/32c3-7360-un_sicherheit_von_app-basierten_tan-verfahren_im_onlinebanking">https://media.ccc.de/v/32c3-7360-un_sicherheit_von_app-basierten_tan-verfahren_im_onlinebanking</a></li>
+	<li><a href="https://media.ccc.de/v/32c3-7502-dissecting_volte">https://media.ccc.de/v/32c3-7502-dissecting_volte</a></li>
+</ul>
+</li>
+	<li>Firewall als VPN
+<ul>
+	<li><a href="https://play.google.com/store/apps/details?id=com.jianjia.firewall">https://play.google.com/store/apps/details?id=com.jianjia.firewall</a></li>
+</ul>
+</li>
+	<li>NSA UA
+<ul>
+	<li><a href="https://www.bundestag.de/bundestag/ausschuesse18/ua/1untersuchungsausschuss/weitere_planungen/296996">https://www.bundestag.de/bundestag/ausschuesse18/ua/1untersuchungsausschuss/weitere_planungen/296996</a></li>
+</ul>
+</li>
+	<li>Peak Android
+<ul>
+	<li>mein OnePlus 1 rebootet sich jetzt immer oder friert total ein.</li>
+</ul>
+</li>
+	<li>APK downloader
+<ul>
+	<li><a href="http://codekiem.com/2014/08/07/official-apk-downloader-v2-download-apk-files-from-google-play-store-to-pc/">http://codekiem.com/2014/08/07/official-apk-downloader-v2-download-apk-files-from-google-play-store-to-pc/</a></li>
+	<li><a href="http://apps.evozi.com/apk-downloader/">http://apps.evozi.com/apk-downloader/</a></li>
+</ul>
+</li>
+	<li>Cars
+<ul>
+	<li><a href="https://play.google.com/store/apps/details?id=com.homami.cars">https://play.google.com/store/apps/details?id=com.homami.cars</a></li>
+	<li>Falko heißt <b>volker</b></li>
+	<li>Dirk heißt dann <b>biafra</b></li>
+</ul>
+</li>
+	<li>fut.io
+<ul>
+	<li><a href="https://www.followupthen.com/">https://www.followupthen.com/</a></li>
+</ul>
+</li>
+</ul>]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2016%2F01%2F14%2Fpd054-32c3%2F&amp;language=de_DE&amp;category=audio&amp;title=PD054+%26%238211%3B+32c3&amp;description=http%3A%2F%2Fwww.jsonschema2pojo.org%2F+http%3A%2F%2Fjson-schema.org%2F+Google+moving+to+OpenJDK+https%3A%2F%2Fwww.codenameone.com%2Fblog%2Fanalysis-google-moving-to-openjdk-what-that-really-means.html+http%3A%2F%2Fandreasgal.com%2F2016%2F01%2F05%2Foracle-sinks-its-claws-into-android%2F+Android+Dev+Summit+Playlist%3A+https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLWz5rJ2EKKc_Tt7q77qwyKRgytF1RzRx8+Ubiquity+https%3A%2F%2Fubiquity.withgoogle.com%2F+32c3+https%3A%2F%2Fmedia.ccc.de%2Fsearch%2F%3Fq%3D32c2+https%3A%2F%2Fmedia.ccc.de%2Fv%2F32c3-7360-un_sicherheit_von_app-basierten_tan-verfahren_im_onlinebanking+https%3A%2F%2Fmedia.ccc.de%2Fv%2F32c3-7502-dissecting_volte+Firewall+als+VPN+https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.jianjia.firewall+NSA+UA+https%3A%2F%2Fwww.bundestag.de%2Fbundestag%2Fausschuesse18%2Fua%2F1untersuchungsausschuss%2Fweitere_planungen%2F296996+Peak+Android+mein+OnePlus...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2016/01/14/pd054-32c3/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid54.mp3" length="43430153" type="audio/mpeg" /><itunes:duration>00:00:00</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>http://www.jsonschema2pojo.org/
+
+	http://json-schema.org/
+
+
+	Google moving to OpenJDK
+
+	https://www.codenameone.com/blog/analysis-google-moving-to-openjdk-what-that-really-means.html
+	http://andreasgal.com/2016/01/05/oracle-sinks-its-claws-into-android/
+
+
+	Android Dev Summit
+
+	Playlist: https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_Tt7q77qwyKRgytF1RzRx8
+
+
+	Ubiquity
+
+	https://ubiquity.withgoogle.com/
+
+
+	32c3
+
+	https://media.ccc.de/search/?q=32c2
+	https://media.ccc.de/v/32c3-7360-un_sicherheit_von_app-basierten_tan-verfahren_im_onlinebanking
+	https://media.ccc.de/v/32c3-7502-dissecting_volte
+
+
+	Firewall als VPN
+
+	https://play.google.com/store/apps/details?id=com.jianjia.firewall
+
+
+	NSA UA
+
+	https://www.bundestag.de/bundestag/ausschuesse18/ua/1untersuchungsausschuss/weitere_planungen/296996
+
+
+	Peak Android
+
+	mein OnePlus 1 rebootet sich jetzt immer oder friert total ein.
+
+
+	APK downloader
+
+	http://codekiem.com/2014/08/07/official-apk-downloader-v2-download-apk-files-from-google-play-store-to-pc/
+	http://apps.evozi.com/apk-downloader/
+
+
+	Cars
+
+	https://play.google.com/store/apps/details?id=com.homami.cars
+	Falko heißt volker
+	Dirk heißt dann biafra
+
+
+	fut.io
+
+	https://www.followupthen.com/</itunes:summary>	</item>
+		<item>
+		<title>PD053 &#8211; fastboot OEM brick</title>
+		<link>https://pandroid.c-base.org/2015/11/12/pd053-fastboot-oem-brick/</link>
+		<pubDate>Thu, 12 Nov 2015 08:20:34 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2015-11-12t00:49:24+00:00-46c0eb3b26fa82f</guid>
+		<description><![CDATA[<ul>
+	<li >DroidconUK
+<ul>
+	<li ><a href="https://skillsmatter.com/conferences/6712-droidcon-2015#program">https://skillsmatter.com/conferences/6712-droidcon-2015#program</a></li>
+</ul>
+</li>
+	<li >Kotlin 1.0 Beta
+<ul>
+	<li ><a href="http://blog.jetbrains.com/kotlin/2015/11/the-kotlin-language-1-0-beta-is-here/">http://blog.jetbrains.com/kotlin/2015/11/the-kotlin-language-1-0-beta-is-here/</a></li>
+</ul>
+</li>
+	<li >DevFest 2015 
+<ul>
+	<li ><a href="https://developers.google.com/events/devfest/">https://developers.google.com/events/devfest/</a></li>
+	<li >Fire SDK integration <a href="https://developer.amazon.com/appsandservices/resources/development-tools/ide-tools/tech-docs/01-setting-up-your-development-environment">https://developer.amazon.com/appsandservices/resources/development-tools/ide-tools/tech-docs/01-setting-up-your-development-environment</a></li>
+</ul>
+</li>
+	<li >Kotlin Koans
+<ul>
+	<li ><a href="http://try.kotlinlang.org/">http://try.kotlinlang.org/</a></li>
+</ul>
+</li>
+	<li >Jake Wharton talking Kotlin at DroidconUK 2015
+<ul>
+	<li ><a href="https://speakerdeck.com/jakewharton/advancing-development-with-kotlin-droidcon-uk-2015">https://speakerdeck.com/jakewharton/advancing-development-with-kotlin-droidcon-uk-2015</a></li>
+</ul>
+</li>
+	<li >DevFest 2015
+<ul>
+	<li ><a href="https://2015.devfest-berlin.de/">https://2015.devfest-berlin.de/</a></li>
+</ul>
+</li>
+	<li >Android Dev Summit
+<ul>
+	<li ><a href="https://androiddevsummit.withgoogle.com/schedule">https://androiddevsummit.withgoogle.com/schedule</a></li>
+	<li >Livestream <a href="https://androiddevsummit.withgoogle.com/stream">https://androiddevsummit.withgoogle.com/stream</a></li>
+</ul>
+</li>
+	<li >PeakAndroid
+<ul>
+	<li ><a href="https://code.google.com/p/android/issues/detail?id=186624">https://code.google.com/p/android/issues/detail?id=186624</a></li>
+</ul>
+</li>
+	<li >OnePlus Two Invites:
+<ul>
+	<li ><a href="http://onepl.us/GLB8-ADCE-FA77-B890">http://onepl.us/GLB8-ADCE-FA77-B890</a></li>
+	<li ><a href="http://onepl.us/GLC1-B6FC-8B92-654A">http://onepl.us/GLC1-B6FC-8B92-654A</a></li>
+	<li ><a href="http://onepl.us/GLC9-654D-CC9E-AC90">http://onepl.us/GLC9-654D-CC9E-AC90</a></li>
+</ul>
+</li>
+	<li >OEM unlock auf Moto E</li>
+	<li >Pushtan
+<ul>
+	<li ><a href="http://www.heise.de/security/meldung/Forscher-demontieren-App-TANs-der-Sparkasse-2853492.html">http://www.heise.de/security/meldung/Forscher-demontieren-App-TANs-der-Sparkasse-2853492.html</a></li>
+	<li ><a href="http://www.heise.de/security/meldung/Unsichere-App-TAN-Sparkasse-verteidigt-ihr-pushTAN-Banking-2854722.html">http://www.heise.de/security/meldung/Unsichere-App-TAN-Sparkasse-verteidigt-ihr-pushTAN-Banking-2854722.html</a></li>
+</ul>
+</li>
+	<li ><strong>Moto unlock your Bootloader <a href="https://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a">https://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a</a></strong></li>
+</ul>]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2015%2F11%2F12%2Fpd053-fastboot-oem-brick%2F&amp;language=de_DE&amp;category=audio&amp;title=PD053+%26%238211%3B+fastboot+OEM+brick&amp;description=DroidconUK+https%3A%2F%2Fskillsmatter.com%2Fconferences%2F6712-droidcon-2015%23program+Kotlin+1.0+Beta+http%3A%2F%2Fblog.jetbrains.com%2Fkotlin%2F2015%2F11%2Fthe-kotlin-language-1-0-beta-is-here%2F+DevFest+2015+https%3A%2F%2Fdevelopers.google.com%2Fevents%2Fdevfest%2F+Fire+SDK+integration+https%3A%2F%2Fdeveloper.amazon.com%2Fappsandservices%2Fresources%2Fdevelopment-tools%2Fide-tools%2Ftech-docs%2F01-setting-up-your-development-environment+Kotlin+Koans+http%3A%2F%2Ftry.kotlinlang.org%2F+Jake+Wharton+talking+Kotlin+at+DroidconUK+2015+https%3A%2F%2Fspeakerdeck.com%2Fjakewharton%2Fadvancing-development-with-kotlin-droidcon-uk-2015+DevFest+2015+https%3A%2F%2F2015.devfest-berlin.de%2F+Android+Dev+Summit...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2015/11/12/pd053-fastboot-oem-brick/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/Pandroid53.mp3" length="69509605" type="audio/mpeg" /><itunes:duration>00:00:00</itunes:duration><itunes:author></itunes:author><itunes:subtitle>pandroid November 2015</itunes:subtitle><itunes:summary>DroidconUK
+
+	https://skillsmatter.com/conferences/6712-droidcon-2015#program
+
+
+	Kotlin 1.0 Beta
+
+	http://blog.jetbrains.com/kotlin/2015/11/the-kotlin-language-1-0-beta-is-here/
+
+
+	DevFest 2015 
+
+	https://developers.google.com/events/devfest/
+	Fire SDK integration https://developer.amazon.com/appsandservices/resources/development-tools/ide-tools/tech-docs/01-setting-up-your-development-environment
+
+
+	Kotlin Koans
+
+	http://try.kotlinlang.org/
+
+
+	Jake Wharton talking Kotlin at DroidconUK 2015
+
+	https://speakerdeck.com/jakewharton/advancing-development-with-kotlin-droidcon-uk-2015
+
+
+	DevFest 2015
+
+	https://2015.devfest-berlin.de/
+
+
+	Android Dev Summit
+
+	https://androiddevsummit.withgoogle.com/schedule
+	Livestream https://androiddevsummit.withgoogle.com/stream
+
+
+	PeakAndroid
+
+	https://code.google.com/p/android/issues/detail?id=186624
+
+
+	OnePlus Two Invites:
+
+	http://onepl.us/GLB8-ADCE-FA77-B890
+	http://onepl.us/GLC1-B6FC-8B92-654A
+	http://onepl.us/GLC9-654D-CC9E-AC90
+
+
+	OEM unlock auf Moto E
+	Pushtan
+
+	http://www.heise.de/security/meldung/Forscher-demontieren-App-TANs-der-Sparkasse-2853492.html
+	http://www.heise.de/security/meldung/Unsichere-App-TAN-Sparkasse-verteidigt-ihr-pushTAN-Banking-2854722.html
+
+
+	Moto unlock your Bootloader https://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a</itunes:summary>	</item>
+		<item>
+		<title>PD052 &#8211; coundlab</title>
+		<link>https://pandroid.c-base.org/2015/10/10/pd052-coundlab/</link>
+		<pubDate>Sat, 10 Oct 2015 21:48:48 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2015-10-08t21:40:38+00:00-e83be5ec3e4e51e</guid>
+		<description><![CDATA[<h1>Pandroid 52 07.10.2015 @cbase</h1>
+<ul>
+	<li><a href="http://getfinn.com/de/">http://getfinn.com/de/</a>
+<ul>
+	<li>criticalmaps <a href="https://play.google.com/store/apps/details?id=de.stephanlindauer.criticalmaps">https://play.google.com/store/apps/details?id=de.stephanlindauer.criticalmaps</a></li>
+	<li><a href="https://github.com/criticalmaps/criticalmaps-android">https://github.com/criticalmaps/criticalmaps-android</a></li>
+</ul>
+</li>
+	<li>bitlock <a href="https://www.kickstarter.com/projects/126495570/bitlock-turning-your-smart-phone-into-your-bike-ke?lang=en">https://www.kickstarter.com/projects/126495570/bitlock-turning-your-smart-phone-into-your-bike-ke?lang=en</a></li>
+	<li>Debug.waitForDebugger();</li>
+	<li>get all android devices
+<ul>
+	<li><a href="https://support.google.com/googleplay/android-developer/answer/6154891?hl=en">https://support.google.com/googleplay/android-developer/answer/6154891?hl=en</a></li>
+</ul>
+</li>
+	<li>unmock <a href="https://github.com/bjoernQ/unmock-plugin">https://github.com/bjoernQ/unmock-plugin</a>
+<ul>
+	<li><a href="https://github.com/ligi/gobandroid/blob/master/android/build.gradle">https://github.com/ligi/gobandroid/blob/master/android/build.gradle</a></li>
+</ul>
+</li>
+	<li>transifex <a href="https://www.transifex.com/">https://www.transifex.com/</a></li>
+	<li>Spock testing DSL <a href="http://spockframework.github.io/spock/docs/1.0/index.html">http://spockframework.github.io/spock/docs/1.0/index.html</a>
+<ul>
+	<li><a href="http://robospock.org/">http://robospock.org/</a></li>
+</ul>
+</li>
+	<li>XCodeGhost FAQ
+<ul>
+	<li><a href="http://www.macrumors.com/2015/09/20/xcodeghost-chinese-malware-faq/">http://www.macrumors.com/2015/09/20/xcodeghost-chinese-malware-faq/</a></li>
+</ul>
+</li>
+	<li><a href="http://semver.org/">http://semver.org/</a></li>
+	<li>jitpack <a href="https://jitpack.io/">https://jitpack.io/</a></li>
+	<li>safe mode <a href="http://www.greenbot.com/article/2923927/how-to-restart-your-android-phone-into-safe-mode.html">http://www.greenbot.com/article/2923927/how-to-restart-your-android-phone-into-safe-mode.html</a></li>
+	<li><a href="https://www.youtube.com/playlist?list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi">https://www.youtube.com/playlist?list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi</a></li>
+	<li>SDK23 and play-services+proguard
+<ul>
+	<li><a href="https://code.google.com/p/android-developer-preview/issues/detail?id=3001">https://code.google.com/p/android-developer-preview/issues/detail?id=3001</a></li>
+</ul>
+</li>
+	<li>SnackEngage
+<ul>
+	<li><a href="https://github.com/ligi/SnackEngage">https://github.com/ligi/SnackEngage</a> <a href="https://github.com/PomepuyN/discreet-app-rate">https://github.com/PomepuyN/discreet-app-rate</a></li>
+</ul>
+</li>
+	<li>neue Gear VR <a href="http://www.spiegel.de/netzwelt/gadgets/europa-park-in-rust-achterbahnfahren-mit-vr-brille-a-1054039.html">http://www.spiegel.de/netzwelt/gadgets/europa-park-in-rust-achterbahnfahren-mit-vr-brille-a-1054039.html</a></li>
+	<li>joda-time -> ThreeTenABP
+<ul>
+	<li><a href="https://github.com/JakeWharton/ThreeTenABP">https://github.com/JakeWharton/ThreeTenABP</a></li>
+	<li><a href="http://blog.joda.org/2009/11/why-jsr-310-isn-joda-time_4941.html">http://blog.joda.org/2009/11/why-jsr-310-isn-joda-time_4941.html</a></li>
+</ul>
+</li>
+	<li><a href="https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm">vysor funktioniert gut</a></li>
+</ul>]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2015%2F10%2F10%2Fpd052-coundlab%2F&amp;language=de_DE&amp;category=audio&amp;title=PD052+%26%238211%3B+coundlab&amp;description=Mit+ligi+und+Falko+http%3A%2F%2Fgetfinn.com%2Fde%2F+criticalmaps+https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dde.stephanlindauer.criticalmaps+https%3A%2F%2Fgithub.com%2Fcriticalmaps%2Fcriticalmaps-android+bitlock+https%3A%2F%2Fwww.kickstarter.com%2Fprojects%2F126495570%2Fbitlock-turning-your-smart-phone-into-your-bike-ke%3Flang%3Den+Debug.waitForDebugger%28%29%3B+get+all+android+devices+https%3A%2F%2Fsupport.google.com%2Fgoogleplay%2Fandroid-developer%2Fanswer%2F6154891%3Fhl%3Den+unmock+https%3A%2F%2Fgithub.com%2FbjoernQ%2Funmock-plugin+https%3A%2F%2Fgithub.com%2Fligi%2Fgobandroid%2Fblob%2Fmaster%2Fandroid%2Fbuild.gradle+transifex+https%3A%2F%2Fwww.transifex.com%2F+Spock+testing+DSL+http%3A%2F%2Fspockframework.github.io%2Fspock%2Fdocs%2F1.0%2Findex.html+http%3A%2F%2Frobospock.org%2F+XCodeGhost+FAQ+http%3A%2F%2Fwww.macrumors.com%2F2015%2F09%2F20%2Fxcodeghost-chinese-malware-faq%2F+http%3A%2F%2Fsemver.org%2F...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2015/10/10/pd052-coundlab/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid52.mp3" length="53498566" type="audio/mpeg" /><itunes:duration>00:00:00</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>Pandroid 52 07.10.2015 @cbase
+
+	http://getfinn.com/de/
+
+	criticalmaps https://play.google.com/store/apps/details?id=de.stephanlindauer.criticalmaps
+	https://github.com/criticalmaps/criticalmaps-android
+
+
+	bitlock https://www.kickstarter.com/projects/126495570/bitlock-turning-your-smart-phone-into-your-bike-ke?lang=en
+	Debug.waitForDebugger();
+	get all android devices
+
+	https://support.google.com/googleplay/android-developer/answer/6154891?hl=en
+
+
+	unmock https://github.com/bjoernQ/unmock-plugin
+
+	https://github.com/ligi/gobandroid/blob/master/android/build.gradle
+
+
+	transifex https://www.transifex.com/
+	Spock testing DSL http://spockframework.github.io/spock/docs/1.0/index.html
+
+	http://robospock.org/
+
+
+	XCodeGhost FAQ
+
+	http://www.macrumors.com/2015/09/20/xcodeghost-chinese-malware-faq/
+
+
+	http://semver.org/
+	jitpack https://jitpack.io/
+	safe mode http://www.greenbot.com/article/2923927/how-to-restart-your-android-phone-into-safe-mode.html
+	https://www.youtube.com/playlist?list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi
+	SDK23 and play-services+proguard
+
+	https://code.google.com/p/android-developer-preview/issues/detail?id=3001
+
+
+	SnackEngage
+
+	https://github.com/ligi/SnackEngage https://github.com/PomepuyN/discreet-app-rate
+
+
+	neue Gear VR http://www.spiegel.de/netzwelt/gadgets/europa-park-in-rust-achterbahnfahren-mit-vr-brille-a-1054039.html
+	joda-time -&gt; ThreeTenABP
+
+	https://github.com/JakeWharton/ThreeTenABP
+	http://blog.joda.org/2009/11/why-jsr-310-isn-joda-time_4941.html
+
+
+	vysor funktioniert gut</itunes:summary>	</item>
+		<item>
+		<title>PD051 &#8211; 1 + 2</title>
+		<link>https://pandroid.c-base.org/2015/09/16/3/</link>
+		<pubDate>Wed, 16 Sep 2015 21:38:18 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2015-09-16t19:29:59+00:00-38133b9577199f8</guid>
+		<description><![CDATA[Mit <a href="https://about.me/falkorichter">Falko</a> und Dirk
+<ul>
+	<li>#peakAndroid <a href="https://code.google.com/p/android/issues/detail?id=80399">https://code.google.com/p/android/issues/detail?id=80399</a></li>
+	<li>Neo900 <a href="http://neo900.org/">http://neo900.org/</a> <a href="http://neo900.org/stuff/cccamp15/ccc2015talk/neo900-wpwrak_CCC2015.webm">http://neo900.org/stuff/cccamp15/ccc2015talk/neo900-wpwrak_CCC2015.webm</a></li>
+	<li><a href="https://www.canyon.com/eurobike2015/technologie.html">https://www.canyon.com/eurobike2015/technologie.html</a></li>
+	<li>SBH 70 von Sony hat Dirk</li>
+	<li>Falko hat wieder eine Sony SWR50 (Smartwatch 2)</li>
+	<li>Habt ihr Empfehlungen für Bluetooth Kopfhörer die laut sind?</li>
+	<li>OnePlusTwo
+<ul>
+	<li>Cyanogenmod
+<a href="http://forum.xda-developers.com/oneplus-2/orig-development/rom-unofficial-cyanogenmod-12-1-t3185511">http://forum.xda-developers.com/oneplus-2/orig-development/rom-unofficial-cyanogenmod-12-1-t3185511</a>
+<ul>
+	<li>No fingerprint sensor unter CyanogenOS</li>
+</ul>
+</li>
+</ul>
+</li>
+	<li>M == Marshmallow <a href="https://www.youtube.com/watch?v=eVKuAmEVrhc">https://www.youtube.com/watch?v=eVKuAmEVrhc</a> <a href="https://www.youtube.com/watch?v=DEBh1lBxg0Y">https://www.youtube.com/watch?v=DEBh1lBxg0Y</a></li>
+	<li>Null object pattern <a href="https://sourcemaking.com/design_patterns/null_object">https://sourcemaking.com/design_patterns/null_object</a></li>
+	<li>JRebel Early Access
+<a href="https://zeroturnaround.com/software/jrebel-for-android/">https://zeroturnaround.com/software/jrebel-for-android/</a></li>
+	<li>Vysor <a href="http://www.vysor.io/">http://www.vysor.io/</a>  <a href="https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm">https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm</a></li>
+	<li>Some apps use native code (NDK) to check for root
+<a href="https://github.com/devadvance/rootcloak/issues/11">https://github.com/devadvance/rootcloak/issues/11</a></li>
+	<li>New Android support testing lib
+<a href="https://plus.google.com/+AndroidDevelopers/posts/SXVtgnoKcAY">https://plus.google.com/+AndroidDevelopers/posts/SXVtgnoKcAY</a></li>
+	<li>Lollipop Lockscreen bypass <a href="http://sites.utexas.edu/iso/2015/09/15/android-5-lockscreen-bypass/">http://sites.utexas.edu/iso/2015/09/15/android-5-lockscreen-bypass/</a></li>
+	<li>Android signature verification vulnerability and exploitation <a href="http://blog.trustlook.com/2015/09/09/android-signature-verification-vulnerability-and-exploitation/">http://blog.trustlook.com/2015/09/09/android-signature-verification-vulnerability-and-exploitation/</a></li>
+</ul>
+<ul>
+	<li>Kotlin M13 is out!
+<a href="http://blog.jetbrains.com/kotlin/2015/09/kotlin-m13-is-out/">http://blog.jetbrains.com/kotlin/2015/09/kotlin-m13-is-out/</a></li>
+	<li>android-app://foo.bar.baz <a href="https://developers.google.com/app-indexing/android/test">https://developers.google.com/app-indexing/android/test</a></li>
+	<li>Android Dev Summit
+<a href="https://plus.google.com/u/0/+AndroidDevelopers/posts/dc8nMz7gpRQ">https://plus.google.com/u/0/+AndroidDevelopers/posts/dc8nMz7gpRQ</a></li>
+	<li><a href="https://github.com/Pixplicity/humpty-dumpty-android">https://github.com/Pixplicity/humpty-dumpty-android</a></li>
+	<li><a href="http://www.idescout.com/#contact-us-section">http://www.idescout.com/#contact-us-section</a></li>
+	<li><a href="https://github.com/infinum/android_dbinspector">https://github.com/infinum/android_dbinspector</a></li>
+	<li><a href="https://github.com/pilgr/Paper">https://github.com/pilgr/Paper</a></li>
+</ul>]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2015%2F09%2F16%2F3%2F&amp;language=de_DE&amp;category=audio&amp;title=PD051+%26%238211%3B+1+%2B+2&amp;description=Mit+Falko+und+Dirk+%23peakAndroid+https%3A%2F%2Fcode.google.com%2Fp%2Fandroid%2Fissues%2Fdetail%3Fid%3D80399+Neo900+http%3A%2F%2Fneo900.org%2F+http%3A%2F%2Fneo900.org%2Fstuff%2Fcccamp15%2Fccc2015talk%2Fneo900-wpwrak_CCC2015.webm+https%3A%2F%2Fwww.canyon.com%2Feurobike2015%2Ftechnologie.html+SBH+70+von+Sony+hat+Dirk+Falko+hat+wieder+eine+Sony+SWR50+%28Smartwatch+2%29+Habt+ihr+Empfehlungen+f%C3%BCr+Bluetooth+Kopfh%C3%B6rer...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2015/09/16/3/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD051-1plus2.mp3" length="51755273" type="audio/mpeg" /><itunes:duration>00:00:00</itunes:duration><itunes:author></itunes:author><itunes:subtitle>Eins plus Zwei</itunes:subtitle><itunes:summary>Mit Falko und Dirk
+
+	#peakAndroid https://code.google.com/p/android/issues/detail?id=80399
+	Neo900 http://neo900.org/ http://neo900.org/stuff/cccamp15/ccc2015talk/neo900-wpwrak_CCC2015.webm
+	https://www.canyon.com/eurobike2015/technologie.html
+	SBH 70 von Sony hat Dirk
+	Falko hat wieder eine Sony SWR50 (Smartwatch 2)
+	Habt ihr Empfehlungen für Bluetooth Kopfhörer die laut sind?
+	OnePlusTwo
+
+	Cyanogenmod
+http://forum.xda-developers.com/oneplus-2/orig-development/rom-unofficial-cyanogenmod-12-1-t3185511
+
+	No fingerprint sensor unter CyanogenOS
+
+
+
+
+	M == Marshmallow https://www.youtube.com/watch?v=eVKuAmEVrhc https://www.youtube.com/watch?v=DEBh1lBxg0Y
+	Null object pattern https://sourcemaking.com/design_patterns/null_object
+	JRebel Early Access
+https://zeroturnaround.com/software/jrebel-for-android/
+	Vysor http://www.vysor.io/  https://chrome.google.com/webstore/detail/vysor-beta/gidgenkbbabolejbgbpnhbimgjbffefm
+	Some apps use native code (NDK) to check for root
+https://github.com/devadvance/rootcloak/issues/11
+	New Android support testing lib
+https://plus.google.com/+AndroidDevelopers/posts/SXVtgnoKcAY
+	Lollipop Lockscreen bypass http://sites.utexas.edu/iso/2015/09/15/android-5-lockscreen-bypass/
+	Android signature verification vulnerability and exploitation http://blog.trustlook.com/2015/09/09/android-signature-verification-vulnerability-and-exploitation/
+
+
+	Kotlin M13 is out!
+http://blog.jetbrains.com/kotlin/2015/09/kotlin-m13-is-out/
+	android-app://foo.bar.baz https://developers.google.com/app-indexing/android/test
+	Android Dev Summit
+https://plus.google.com/u/0/+AndroidDevelopers/posts/dc8nMz7gpRQ
+	https://github.com/Pixplicity/humpty-dumpty-android
+	http://www.idescout.com/#contact-us-section
+	https://github.com/infinum/android_dbinspector
+	https://github.com/pilgr/Paper</itunes:summary>	</item>
+		<item>
+		<title>PD050 &#8211; EU vs. Google</title>
+		<link>https://pandroid.c-base.org/2015/08/09/pd050/</link>
+		<pubDate>Sun, 09 Aug 2015 20:39:19 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2015-08-09t20:32:02+00:00-71190fca94a8f2e</guid>
+		<description><![CDATA[PD050 - EU vs. Google]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2015%2F08%2F09%2Fpd050%2F&amp;language=de_DE&amp;category=audio&amp;title=PD050+%26%238211%3B+EU+vs.+Google&amp;description=%26nbsp%3B+Wir+begr%C3%BC%C3%9Fen+Friedger+M%C3%BCffke%2C%C2%A0%E2%80%9CAndroid+Entwickler+der+ersten+Stunde%E2%80%9D%3A+about.me%2Ffriedger+fmdroid.+OpenIntents+http%3A%2F%2Fandroid-developers.blogspot.de%2F2008%2F05%2Ftop-50-applications.html+PicSay+Pro+https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.shinycore.picsaypro+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmnamDpzzpvo+http%3A%2F%2Fjekyllrb.com%2F+https%3A%2F%2Fgithub.com%2Fopenintents%2Fopenintents.github.io%2Ftree%2Fmaster%2F_intent_specs+http%3A%2F%2Fwww.openintents.org%2Ffilemanager%2F+EU+verklagt+Google+Now+on+tap+https%3A%2F%2Fdeveloper.android.com%2Freference%2Fandroid%2Fcontent%2FIntent.html%23ACTION_ASSIST+Android+M+permissions...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2015/08/09/pd050/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD050.mp3" length="76923019" type="audio/mpeg" /><itunes:duration>01:31:34</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD049 – I/O 2015</title>
+		<link>https://pandroid.c-base.org/2015/06/03/pd049-io-2015/</link>
+		<pubDate>Wed, 03 Jun 2015 07:59:53 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2015-06-03t00:26:45+00:00-0a7559ac9eae745</guid>
+		<description><![CDATA[Wieder einmal mit Dirk & Falko:
+
+Link:
+<ul>
+	<li><a href="https://github.com/mortenjust/androidtool-mac">https://github.com/mortenjust/androidtool-mac</a></li>
+	<li><a href="https://corner.squareup.com/2015/05/leak-canary.html">https://corner.squareup.com/2015/05/leak-canary.html</a></li>
+	<li>Bluetooth Advertising Bacon
+<ul>
+	<li><a href="https://jira.cyanogenmod.org/browse/BACON-3435">https://jira.cyanogenmod.org/browse/BACON-3435</a></li>
+	<li>auf nach reddit damit</li>
+</ul>
+</li>
+	<li>Multidex
+<ul>
+	<li><a href="https://github.com/sensorberg-dev/android-sdk/commit/5d9b13b0d297f52c6295609281c93425b76f9d55">https://github.com/sensorberg-dev/android-sdk/commit/5d9b13b0d297f52c6295609281c93425b76f9d55</a></li>
+	<li><a href="https://github.com/sensorberg-dev/android-sdk/blob/master/android-sdk/build.gradle">https://github.com/sensorberg-dev/android-sdk/blob/master/android-sdk/build.gradle</a></li>
+	<li><a href="https://developer.android.com/tools/building/multidex.html">https://developer.android.com/tools/building/multidex.html</a></li>
+	<li><a href="https://android.googlesource.com/platform/frameworks/multidex/+/master/library/src/android/support/multidex/MultiDexApplication.java">https://android.googlesource.com/platform/frameworks/multidex/+/master/library/src/android/support/multidex/MultiDexApplication.java</a></li>
+</ul>
+</li>
+	<li>JRebel
+<ul>
+	<li><a href="http://zeroturnaround.com/software/jrebel-for-android/">http://zeroturnaround.com/software/jrebel-for-android/</a></li>
+</ul>
+</li>
+	<li>Apple Watch
+<ul>
+	<li>Wear for iOS <a href="http://gizmodo.com/everything-google-stayed-curiously-quiet-about-at-i-o-t-1707788932">http://gizmodo.com/everything-google-stayed-curiously-quiet-about-at-i-o-t-1707788932</a></li>
+	<li><a href="http://www.theverge.com/2015/4/9/8375931/android-wear-iphone-google-apple-compatible">http://www.theverge.com/2015/4/9/8375931/android-wear-iphone-google-apple-compatible</a></li>
+</ul>
+</li>
+	<li>Wear source code:
+<ul>
+	<li><a href="http://www.androidcentral.com/android-wear-source-code-uploaded-aosp">http://www.androidcentral.com/android-wear-source-code-uploaded-aosp</a></li>
+</ul>
+</li>
+	<li>Google I/O
+<ul>
+	<li>Atmo</li>
+	<li>Keynote
+<ul>
+	<li>Falko fragt was er in der Live coverage nachvoll zieht: <a href="http://live.theverge.com/google-io-liveblog-2015-android-photos-sundar-pichai/?_ga=1.224657945.2023408518.1423223027">http://live.theverge.com/google-io-liveblog-2015-android-photos-sundar-pichai/?_ga=1.224657945.2023408518.1423223027</a></li>
+	<li>Android VR
+<ul>
+	<li><a href="http://gizmodo.com/google-s-using-an-insane-gopro-rig-and-youtube-to-bring-1707500976">http://gizmodo.com/google-s-using-an-insane-gopro-rig-and-youtube-to-bring-1707500976</a></li>
+	<li><a href="http://gizmodo.com/googles-new-cardboard-hands-on-a-little-bigger-a-litt-1707522625">http://gizmodo.com/googles-new-cardboard-hands-on-a-little-bigger-a-litt-1707522625</a></li>
+	<li>Jump camera <a href="https://www.google.com/get/cardboard/jump/">https://www.google.com/get/cardboard/jump/</a></li>
+</ul>
+</li>
+	<li>Moonshot
+<ul>
+	<li><a href="https://youtu.be/F5jj6gBKGK8?t=1m51s">https://youtu.be/F5jj6gBKGK8?t=1m51s</a></li>
+</ul>
+</li>
+	<li>Udacity</li>
+	<li>Android Car</li>
+	<li>Android TV</li>
+	<li>Android Wear
+<ul>
+	<li><a href="https://io2015codelabs.appspot.com/codelabs/always-on#1">https://io2015codelabs.appspot.com/codelabs/always-on#1</a></li>
+</ul>
+</li>
+	<li>Android Pay</li>
+	<li>Chrome custom Tabs</li>
+	<li>Android Doze spart Strom</li>
+	<li>Google Now scans apps</li>
+	<li>Google Photos</li>
+	<li>Jack and Jill compiler <a href="https://www.guardsquare.com/blog/the_upcoming_jack_and_jill_compilers_in_android">https://www.guardsquare.com/blog/the_upcoming_jack_and_jill_compilers_in_android</a></li>
+</ul>
+</li>
+</ul>
+</li>
+	<li>codelabs
+<ul>
+	<li>What’s new in Android?
+<ul>
+	<li>Android M permission
+<ul>
+	<li><a href="https://newcircle.com/s/post/1737/2015/05/31/the-new-android-m-permissions-model">https://newcircle.com/s/post/1737/2015/05/31/the-new-android-m-permissions-model</a></li>
+	<li>Data Binding
+<ul>
+	<li><a href="https://developer.android.com/tools/data-binding/guide.html">https://developer.android.com/tools/data-binding/guide.html</a></li>
+	<li><a href="https://github.com/biafra23/android-databinding">https://github.com/biafra23/android-databinding</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+	<li>What’s new in Android Tools?</li>
+	<li>Tag 2</li>
+	<li>Partys</li>
+</ul>
+</li>
+	<li>GDG Summit</li>
+	<li>Droidcon
+<ul>
+	<li>Falko Donnerstag 12:20</li>
+</ul>
+</li>
+</ul>]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2015%2F06%2F03%2Fpd049-io-2015%2F&amp;language=de_DE&amp;category=audio&amp;title=PD049+%E2%80%93+I%2FO+2015&amp;description=Wieder+einmal+mit+Dirk+%26amp%3B+Falko%3A+Link%3A+https%3A%2F%2Fgithub.com%2Fmortenjust%2Fandroidtool-mac+https%3A%2F%2Fcorner.squareup.com%2F2015%2F05%2Fleak-canary.html+Bluetooth+Advertising+Bacon+https%3A%2F%2Fjira.cyanogenmod.org%2Fbrowse%2FBACON-3435+auf+nach+reddit+damit+Multidex+https%3A%2F%2Fgithub.com%2Fsensorberg-dev%2Fandroid-sdk%2Fcommit%2F5d9b13b0d297f52c6295609281c93425b76f9d55+https%3A%2F%2Fgithub.com%2Fsensorberg-dev%2Fandroid-sdk%2Fblob%2Fmaster%2Fandroid-sdk%2Fbuild.gradle+https%3A%2F%2Fdeveloper.android.com%2Ftools%2Fbuilding%2Fmultidex.html+https%3A%2F%2Fandroid.googlesource.com%2Fplatform%2Fframeworks%2Fmultidex%2F%2B%2Fmaster%2Flibrary%2Fsrc%2Fandroid%2Fsupport%2Fmultidex%2FMultiDexApplication.java+JRebel+http%3A%2F%2Fzeroturnaround.com%2Fsoftware%2Fjrebel-for-android%2F+Apple+Watch+Wear+for+iOS+http%3A%2F%2Fgizmodo.com%2Feverything-google-stayed-curiously-quiet-about-at-i-o-t-1707788932...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2015/06/03/pd049-io-2015/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD049.mp3" length="87128352" type="audio/mpeg" /><itunes:duration>00:00:00</itunes:duration><itunes:author></itunes:author><itunes:subtitle>Google I/O 2015 und einige kleine Themen</itunes:subtitle><itunes:summary>Wieder einmal mit Dirk &amp; Falko:
+
+Link:
+
+	https://github.com/mortenjust/androidtool-mac
+	https://corner.squareup.com/2015/05/leak-canary.html
+	Bluetooth Advertising Bacon
+
+	https://jira.cyanogenmod.org/browse/BACON-3435
+	auf nach reddit damit
+
+
+	Multidex
+
+	https://github.com/sensorberg-dev/android-sdk/commit/5d9b13b0d297f52c6295609281c93425b76f9d55
+	https://github.com/sensorberg-dev/android-sdk/blob/master/android-sdk/build.gradle
+	https://developer.android.com/tools/building/multidex.html
+	https://android.googlesource.com/platform/frameworks/multidex/+/master/library/src/android/support/multidex/MultiDexApplication.java
+
+
+	JRebel
+
+	http://zeroturnaround.com/software/jrebel-for-android/
+
+
+	Apple Watch
+
+	Wear for iOS http://gizmodo.com/everything-google-stayed-curiously-quiet-about-at-i-o-t-1707788932
+	http://www.theverge.com/2015/4/9/8375931/android-wear-iphone-google-apple-compatible
+
+
+	Wear source code:
+
+	http://www.androidcentral.com/android-wear-source-code-uploaded-aosp
+
+
+	Google I/O
+
+	Atmo
+	Keynote
+
+	Falko fragt was er in der Live coverage nachvoll zieht: http://live.theverge.com/google-io-liveblog-2015-android-photos-sundar-pichai/?_ga=1.224657945.2023408518.1423223027
+	Android VR
+
+	http://gizmodo.com/google-s-using-an-insane-gopro-rig-and-youtube-to-bring-1707500976
+	http://gizmodo.com/googles-new-cardboard-hands-on-a-little-bigger-a-litt-1707522625
+	Jump camera https://www.google.com/get/cardboard/jump/
+
+
+	Moonshot
+
+	https://youtu.be/F5jj6gBKGK8?t=1m51s
+
+
+	Udacity
+	Android Car
+	Android TV
+	Android Wear
+
+	https://io2015codelabs.appspot.com/codelabs/always-on#1
+
+
+	Android Pay
+	Chrome custom Tabs
+	Android Doze spart Strom
+	Google Now scans apps
+	Google Photos
+	Jack and Jill compiler https://www.guardsquare.com/blog/the_upcoming_jack_and_jill_compilers_in_android
+
+
+
+
+	codelabs
+
+	What’s new in Android?
+
+	Android M permission
+
+	https://newcircle.com/s/post/1737/2015/05/31/the-new-android-m-permissions-model
+	Data Binding
+
+	https://developer.android.com/tools/data-binding/guide.html
+	https://github.com/biafra23/android-databinding
+
+
+
+
+
+
+	What’s new in Android Tools?
+	Tag 2
+	Partys
+
+
+	GDG Summit
+	Droidcon
+
+	Falko Donnerstag 12:20</itunes:summary>	</item>
+		<item>
+		<title>PD048 &#8211; Testen</title>
+		<link>https://pandroid.c-base.org/2015/05/05/pd048-testen/</link>
+		<pubDate>Mon, 04 May 2015 22:04:34 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2015-05-04t21:07:46+00:00-10df5dfcd24fe7c</guid>
+		<description><![CDATA[Zu Gast diesmal: Stefan Hoth @stefanhoth +StefanHoth
+
+Robolectric http://robolectric.org/
+
+Android testing support library https://developer.android.com/tools/testing-support-library/index.html
+
+DevByte zu Debugging/Testing https://www.youtube.com/watch?v=2I6fuD20qlY
+
+Elegant Unit Testing https://speakerdeck.com/guardiola31337/elegant-unit-testing-droidcon-spain-2015
+
+Google Testing blog: Just say No to more end to end tests http://googletesting.blogspot.de/2015/04/just-say-no-to-more-end-to-end-tests.html
+
+Genymotion CLI + Gradle Plugin - private beta features explained  https://plus.google.com/events/cqa69hd46fa9h1lu1llldea1728?authkey=CO3UgMOAwtXr4wE
+    
+TestDroid http://testdroid.com/
+   
+ JRebel for Android http://zeroturnaround.com/blog/blast-off-with-jrebel-for-android/
+
+Microsoft and CM12.1 Nightlies (Update 12 -> 12.1) http://www.cyanogenmod.org/blog/microsoft-and-cm12-1-nightlies
+
+Microsoft apps und Services in CyanogenOS http://www.androidcentral.com/cyanogen-teams-microsoft-offer-bundled-apps-and-services http://www.androidcentral.com/cyanogens-microsoft-deal-includes-removable-apps-and-contextual-suggestions
+
+Android Recreational Tinkering http://www.meetup.com/GDG-Android-in-Berlin/events/222218784/]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2015%2F05%2F05%2Fpd048-testen%2F&amp;language=de_DE&amp;category=audio&amp;title=PD048+%26%238211%3B+Testen&amp;description=%26nbsp%3B+Zu+Gast+diesmal%3A+Stefan+Hoth+%40stefanhoth+%2BStefanHoth+Robolectric+http%3A%2F%2Frobolectric.org%2F+Android+testing+support+library+https%3A%2F%2Fdeveloper.android.com%2Ftools%2Ftesting-support-library%2Findex.html+DevByte+zu+Debugging%2FTesting+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2I6fuD20qlY+Elegant+Unit+Testing+https%3A%2F%2Fspeakerdeck.com%2Fguardiola31337%2Felegant-unit-testing-droidcon-spain-2015+Google+Testing+blog%3A+Just+say+No+to...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2015/05/05/pd048-testen/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD048-Testen.mp3" length="86293712" type="audio/mpeg" /><itunes:duration>01:42:43</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>Zu Gast diesmal: Stefan Hoth @stefanhoth +StefanHoth
+
+Robolectric http://robolectric.org/
+
+Android testing support library https://developer.android.com/tools/testing-support-library/index.html
+
+DevByte zu Debugging/Testing https://www.youtube.com/watch?v=2I6fuD20qlY
+
+Elegant Unit Testing https://speakerdeck.com/guardiola31337/elegant-unit-testing-droidcon-spain-2015
+
+Google Testing blog: Just say No to more end to end tests http://googletesting.blogspot.de/2015/04/just-say-no-to-more-end-to-end-tests.html
+
+Genymotion CLI + Gradle Plugin - private beta features explained  https://plus.google.com/events/cqa69hd46fa9h1lu1llldea1728?authkey=CO3UgMOAwtXr4wE
+    
+TestDroid http://testdroid.com/
+   
+ JRebel for Android http://zeroturnaround.com/blog/blast-off-with-jrebel-for-android/
+
+Microsoft and CM12.1 Nightlies (Update 12 -&gt; 12.1) http://www.cyanogenmod.org/blog/microsoft-and-cm12-1-nightlies
+
+Microsoft apps und Services in CyanogenOS http://www.androidcentral.com/cyanogen-teams-microsoft-offer-bundled-apps-and-services http://www.androidcentral.com/cyanogens-microsoft-deal-includes-removable-apps-and-contextual-suggestions
+
+Android Recreational Tinkering http://www.meetup.com/GDG-Android-in-Berlin/events/222218784/</itunes:summary>	</item>
+		<item>
+		<title>PD047 &#8211; Weg von Google</title>
+		<link>https://pandroid.c-base.org/2015/04/07/pd047-weg-von-google/</link>
+		<pubDate>Tue, 07 Apr 2015 21:47:22 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2015-04-07t20:34:56+00:00-b8a60a6d281b3e7</guid>
+		<description><![CDATA[<ul>
+	<li>Android File Transfer
+<ul>
+	<li><a href="http://www.volkersfreunde.de/android-file-tranfer-deamon-stoppen-und-loeschen/">http://www.volkersfreunde.de/android-file-tranfer-deamon-stoppen-und-loeschen/</a></li>
+</ul>
+</li>
+	<li>Placeholder im Manifest
+<ul>
+	<li><a href="http://www.volkersfreunde.de/android-debug-buildtype-custon-label/">http://www.volkersfreunde.de/android-debug-buildtype-custon-label/</a></li>
+</ul>
+</li>
+	<li>Jar tasks
+<ul>
+	<li><a href="http://www.volkersfreunde.de/android-jar-tasks/">http://www.volkersfreunde.de/android-jar-tasks/</a></li>
+</ul>
+</li>
+	<li>adb over wifi and RSA
+<a href="http://nelenkov.blogspot.de/2013/02/secure-usb-debugging-in-android-422.html">http://nelenkov.blogspot.de/2013/02/secure-usb-debugging-in-android-422.html</a></li>
+	<li>Google Code ist tot
+<ul>
+	<li><a href="https://code.google.com/export-to-github/">https://code.google.com/export-to-github/</a></li>
+	<li>was passiert mit <a href="https://code.google.com/p/android/issues/list">https://code.google.com/p/android/issues/list</a></li>
+	<li>Note to self: tell people the repos have moved</li>
+</ul>
+</li>
+	<li>OnePlus One CM12 nightly</li>
+	<li>“We’re attempting to take Android away from Google” <a href="http://www.fastcompany.com/3043359/app-economy/cyanogens-surprisingly-sensible-plan-to-steal-android-away-from-google">http://www.fastcompany.com/3043359/app-economy/cyanogens-surprisingly-sensible-plan-to-steal-android-away-from-google</a></li>
+	<li>Testing support: <a href="http://tools.android.com/tech-docs/unit-testing-support">http://tools.android.com/tech-docs/unit-testing-support</a>
+<ul>
+	<li>funktioniert, alles schick. Transition sollte smooth sein.</li>
+</ul>
+</li>
+	<li>Android Studio 1.2 based on IntelliJ 14.1</li>
+	<li>Fernflower Decompiler</li>
+	<li>Update zum gradle deployment to Google Play: Es funktioniert wieder, alles schick #weAreLivingTheFuture
+<ul>
+	<li><a href="https://github.com/Triple-T/gradle-play-publisher">https://github.com/Triple-T/gradle-play-publisher</a></li>
+</ul>
+</li>
+	<li><a href="https://jitpack.io/">https://jitpack.io/</a></li>
+	<li>“Private” Maven/Gradle repository
+<ul>
+	<li><a href="http://mymavenrepo.com">http://mymavenrepo.com</a></li>
+</ul>
+</li>
+	<li><a href="http://fragmentedpodcast.com/">http://fragmentedpodcast.com/</a></li>
+	<li>Pocket casts new features
+<ul>
+	<li><a href="http://www.shiftyjelly.com/pocketcasts">http://www.shiftyjelly.com/pocketcasts</a></li>
+</ul>
+</li>
+	<li>Droidcon Berlin 2015
+<ul>
+	<li><a href="http://droidcon.de/berlin/15/speaker">http://droidcon.de/berlin/15/speaker</a></li>
+</ul>
+</li>
+	<li>Wo reportet man Bugs im Android bei Samsung Geräten? Hat Google nicht eine compatibility Verantwortung?
+<ul>
+	<li><a href="https://code.google.com/p/android/issues/detail?id=158335">https://code.google.com/p/android/issues/detail?id=158335</a></li>
+	<li><a href="https://code.google.com/p/android/issues/detail?id=160503">https://code.google.com/p/android/issues/detail?id=160503</a></li>
+</ul>
+</li>
+	<li>Kotlin?
+<ul>
+	<li><a href="http://kotlinlang.org/">http://kotlinlang.org/</a></li>
+	<li>Was sagt Jake dazuhttps://updatemycode.com/2014/11/29/yosemite-as-an-ibeacon-swift/ <a href="https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit?hl=en&forcehl=1">https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit?hl=en&forcehl=1</a></li>
+	<li>Kotlin on Android: <a href="http://kotlinlang.org/docs/tutorials/kotlin-android.html">http://kotlinlang.org/docs/tutorials/kotlin-android.html</a></li>
+	<li>Trying to convert a project: <a href="https://github.com/falkorichter/android-simple-bike-computer/tree/feature/kotlin">https://github.com/falkorichter/android-simple-bike-computer/tree/feature/kotlin</a>
+<ul>
+	<li>bytewise and and shifting only with Int</li>
+	<li>nice initializer: var value : Array<Int> = Array( size = valueBytes.size(), init = {i -> valueBytes.get(i).toInt()})</li>
+	<li>closures :)</li>
+	<li>convert and move :)</li>
+	<li>no casting, you need to know what is really going on</li>
+</ul>
+</li>
+</ul>
+</li>
+	<li>Leaving Google
+<ul>
+	<li>OwnCloud</li>
+	<li>Wallabag</li>
+	<li>Tiny Tiny RSS</li>
+	<li>OpenVPN</li>
+	<li>SSL-Pflicht
+<ul>
+	<li>SnakeOil -> self signed
+<ul>
+	<li>nicht so gut “akzeptieren Sie alle”</li>
+</ul>
+</li>
+	<li>CaCert
+<ul>
+	<li>“Sie sind unsicher”</li>
+</ul>
+</li>
+	<li>StartSSL
+<ul>
+	<li>Gratis & funktioniert, wenn man es richtig macht</li>
+</ul>
+</li>
+</ul>
+</li>
+	<li>SSL-Kür
+<ul>
+	<li><a href="https://www.ssllabs.com/ssltest/">https://www.ssllabs.com/ssltest/</a></li>
+</ul>
+</li>
+</ul>
+</li>
+	<li>Tomb Raider 1 für Android:
+<ul>
+	<li><a href="https://play.google.com/store/apps/details?id=com.squareenix.tombraider1classic">https://play.google.com/store/apps/details?id=com.squareenix.tombraider1classic</a></li>
+</ul>
+</li>
+	<li>ARC
+<ul>
+	<li><a href="https://developer.chrome.com/apps/getstarted_arc">https://developer.chrome.com/apps/getstarted_arc</a></li>
+</ul>
+</li>
+	<li>Nexus 5 Bluetooth advertising
+<ul>
+	<li><a href="https://code.google.com/p/android-developer-preview/issues/detail?id=1570">https://code.google.com/p/android-developer-preview/issues/detail?id=1570</a></li>
+	<li><a href="http://forum.xda-developers.com/android/apps-games/how-to-kevo-to-nexus-5-running-loillipop-t3041092">http://forum.xda-developers.com/android/apps-games/how-to-kevo-to-nexus-5-running-loillipop-t3041092</a></li>
+	<li><a href="http://altbeacon.github.io/android-beacon-library/beacon-transmitter.html">http://altbeacon.github.io/android-beacon-library/beacon-transmitter.html</a></li>
+</ul>
+</li>
+</ul>]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2015%2F04%2F07%2Fpd047-weg-von-google%2F&amp;language=de_DE&amp;category=audio&amp;title=PD047+%26%238211%3B+Weg+von+Google&amp;description=Android+File+Transfer+http%3A%2F%2Fwww.volkersfreunde.de%2Fandroid-file-tranfer-deamon-stoppen-und-loeschen%2F+Placeholder+im+Manifest+http%3A%2F%2Fwww.volkersfreunde.de%2Fandroid-debug-buildtype-custon-label%2F+Jar+tasks+http%3A%2F%2Fwww.volkersfreunde.de%2Fandroid-jar-tasks%2F+adb+over+wifi+and+RSA+http%3A%2F%2Fnelenkov.blogspot.de%2F2013%2F02%2Fsecure-usb-debugging-in-android-422.html+Google+Code+ist+tot+https%3A%2F%2Fcode.google.com%2Fexport-to-github%2F+was+passiert+mit+https%3A%2F%2Fcode.google.com%2Fp%2Fandroid%2Fissues%2Flist+Note+to+self%3A+tell...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2015/04/07/pd047-weg-von-google/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/Pandroid47.mp3" length="83131033" type="audio/mpeg" /><itunes:duration>01:38:57</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>Android File Transfer
+
+	http://www.volkersfreunde.de/android-file-tranfer-deamon-stoppen-und-loeschen/
+
+
+	Placeholder im Manifest
+
+	http://www.volkersfreunde.de/android-debug-buildtype-custon-label/
+
+
+	Jar tasks
+
+	http://www.volkersfreunde.de/android-jar-tasks/
+
+
+	adb over wifi and RSA
+http://nelenkov.blogspot.de/2013/02/secure-usb-debugging-in-android-422.html
+	Google Code ist tot
+
+	https://code.google.com/export-to-github/
+	was passiert mit https://code.google.com/p/android/issues/list
+	Note to self: tell people the repos have moved
+
+
+	OnePlus One CM12 nightly
+	“We’re attempting to take Android away from Google” http://www.fastcompany.com/3043359/app-economy/cyanogens-surprisingly-sensible-plan-to-steal-android-away-from-google
+	Testing support: http://tools.android.com/tech-docs/unit-testing-support
+
+	funktioniert, alles schick. Transition sollte smooth sein.
+
+
+	Android Studio 1.2 based on IntelliJ 14.1
+	Fernflower Decompiler
+	Update zum gradle deployment to Google Play: Es funktioniert wieder, alles schick #weAreLivingTheFuture
+
+	https://github.com/Triple-T/gradle-play-publisher
+
+
+	https://jitpack.io/
+	“Private” Maven/Gradle repository
+
+	http://mymavenrepo.com
+
+
+	http://fragmentedpodcast.com/
+	Pocket casts new features
+
+	http://www.shiftyjelly.com/pocketcasts
+
+
+	Droidcon Berlin 2015
+
+	http://droidcon.de/berlin/15/speaker
+
+
+	Wo reportet man Bugs im Android bei Samsung Geräten? Hat Google nicht eine compatibility Verantwortung?
+
+	https://code.google.com/p/android/issues/detail?id=158335
+	https://code.google.com/p/android/issues/detail?id=160503
+
+
+	Kotlin?
+
+	http://kotlinlang.org/
+	Was sagt Jake dazuhttps://updatemycode.com/2014/11/29/yosemite-as-an-ibeacon-swift/ https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit?hl=en&amp;forcehl=1
+	Kotlin on Android: http://kotlinlang.org/docs/tutorials/kotlin-android.html
+	Trying to convert a project: https://github.com/falkorichter/android-simple-bike-computer/tree/feature/kotlin
+
+	bytewise and and shifting only with Int
+	nice initializer: var value : Array = Array( size = valueBytes.size(), init = {i -&gt; valueBytes.get(i).toInt()})
+	closures :)
+	convert and move :)
+	no casting, you need to know what is really going on
+
+
+
+
+	Leaving Google
+
+	OwnCloud
+	Wallabag
+	Tiny Tiny RSS
+	OpenVPN
+	SSL-Pflicht
+
+	SnakeOil -&gt; self signed
+
+	nicht so gut “akzeptieren Sie alle”
+
+
+	CaCert
+
+	“Sie sind unsicher”
+
+
+	StartSSL
+
+	Gratis &amp; funktioniert, wenn man es richtig macht
+
+
+
+
+	SSL-Kür
+
+	https://www.ssllabs.com/ssltest/
+
+
+
+
+	Tomb Raider 1 für Android:
+
+	https://play.google.com/store/apps/details?id=com.squareenix.tombraider1classic
+
+
+	ARC
+
+	https://developer.chrome.com/apps/getstarted_arc
+
+
+	Nexus 5 Bluetooth advertising
+
+	https://code.google.com/p/android-developer-preview/issues/detail?id=1570
+	http://forum.xda-developers.com/android/apps-games/how-to-kevo-to-nexus-5-running-loillipop-t3041092
+	http://altbeacon.github.io/android-beacon-library/beacon-transmitter.html</itunes:summary>	</item>
+		<item>
+		<title>PD046 Baseband</title>
+		<link>https://pandroid.c-base.org/2015/03/05/pd046-baseband/</link>
+		<pubDate>Thu, 05 Mar 2015 14:08:48 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2015-03-05t13:55:53+00:00-af23b63a27b4cee</guid>
+		<description><![CDATA[Heute haben wir einen Gast der sichere Telefone baut und uns ein paar dunkle Geheimnisse erzählt. Wir diskutieren über kleine und große Sicherheitsthemen.
+
+Links:
+<ul>
+	<li><a href="https://code.google.com/p/dex2jar/">https://code.google.com/p/dex2jar/</a></li>
+	<li>JD-GUI <a href="http://jd.benow.ca/">http://jd.benow.ca/</a></li>
+	<li><a href="http://developer.android.com/guide/topics/manifest/permission-element.html">http://developer.android.com/guide/topics/manifest/permission-element.html</a></li>
+	<li><a href="http://developer.android.com/guide/topics/manifest/uses-permission-element.html">http://developer.android.com/guide/topics/manifest/uses-permission-element.html</a></li>
+	<li><a href="http://repo.xposed.info/module/de.robv.android.xposed.installer">http://repo.xposed.info/module/de.robv.android.xposed.installer</a></li>
+	<li><a href="http://repo.xposed.info/module/biz.bokhorst.xprivacy">http://repo.xposed.info/module/biz.bokhorst.xprivacy</a></li>
+	<li>asec container</li>
+	<li><a href="http://www.cnet.com/news/why-android-wont-be-getting-app-ops-anytime-soon/">http://www.cnet.com/news/why-android-wont-be-getting-app-ops-anytime-soon/</a></li>
+</ul>
+Wir beenden mit der Frage, welches Telefon ein halbwegs brauchbares Baseband hat, in der Hoffung dass wir es nicht schon gekauft haben.]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2015%2F03%2F05%2Fpd046-baseband%2F&amp;language=de_DE&amp;category=audio&amp;title=PD046+Baseband&amp;description=Heute+haben+wir+einen+Gast+der+sichere+Telefone+baut+und+uns+ein+paar+dunkle+Geheimnisse+erz%C3%A4hlt.+Wir+diskutieren+%C3%BCber+kleine+und+gro%C3%9Fe+Sicherheitsthemen.+Links%3A+https%3A%2F%2Fcode.google.com%2Fp%2Fdex2jar%2F+JD-GUI+http%3A%2F%2Fjd.benow.ca%2F+http%3A%2F%2Fdeveloper.android.com%2Fguide%2Ftopics%2Fmanifest%2Fpermission-element.html+http%3A%2F%2Fdeveloper.android.com%2Fguide%2Ftopics%2Fmanifest%2Fuses-permission-element.html+http%3A%2F%2Frepo.xposed.info%2Fmodule%2Fde.robv.android.xposed.installer...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2015/03/05/pd046-baseband/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/Pandroid46.mp3" length="94833502" type="audio/mpeg" /><itunes:duration>01:52:53</itunes:duration><itunes:author></itunes:author><itunes:subtitle>Kleine und große Sicherheitsthemen.</itunes:subtitle><itunes:summary>Heute haben wir einen Gast der sichere Telefone baut und uns ein paar dunkle Geheimnisse erzählt. Wir diskutieren über kleine und große Sicherheitsthemen.
+
+Links:
+
+	https://code.google.com/p/dex2jar/
+	JD-GUI http://jd.benow.ca/
+	http://developer.android.com/guide/topics/manifest/permission-element.html
+	http://developer.android.com/guide/topics/manifest/uses-permission-element.html
+	http://repo.xposed.info/module/de.robv.android.xposed.installer
+	http://repo.xposed.info/module/biz.bokhorst.xprivacy
+	asec container
+	http://www.cnet.com/news/why-android-wont-be-getting-app-ops-anytime-soon/
+
+Wir beenden mit der Frage, welches Telefon ein halbwegs brauchbares Baseband hat, in der Hoffung dass wir es nicht schon gekauft haben.</itunes:summary>	</item>
+		<item>
+		<title>PD045 &#8211; Falko ist verschollen</title>
+		<link>https://pandroid.c-base.org/2015/02/03/pd045-verschollen/</link>
+		<pubDate>Tue, 03 Feb 2015 22:53:48 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2015-02-03t21:50:01+00:00-12d4ee0b4b56d8a</guid>
+		<description><![CDATA[Mit Dirk, Falko und cketti.
+<ul>
+	<li>Wenn man gucken will ob man aus den PlayStore ist</li>
+	<li><a href="https://github.com/bitstadium/HockeySDK-Android/blob/develop/src/main/java/net/hockeyapp/android/UpdateManager.java">https://github.com/bitstadium/HockeySDK-Android/blob/develop/src/main/java/net/hockeyapp/android/UpdateManager.java</a>
+<ul>
+	<li>private static boolean installedFromMarket</li>
+</ul>
+</li>
+	<li>Bouncer
+<ul>
+	<li><a href="http://blog.trendmicro.com/trendlabs-security-intelligence/a-look-at-google-bouncer/">http://blog.trendmicro.com/trendlabs-security-intelligence/a-look-at-google-bouncer/</a></li>
+	<li><a href="http://googlemobile.blogspot.co.uk/2012/02/android-and-security.html">http://googlemobile.blogspot.co.uk/2012/02/android-and-security.html</a></li>
+</ul>
+</li>
+	<li>Petition
+<ul>
+	<li><a href="https://www.change.org/p/google-inc-provide-android-developers-with-one-on-one-communication-to-help-identify-and-resolve-policy-violations-prior-to-automated-and-irreversible-suspensions">https://www.change.org/p/google-inc-provide-android-developers-with-one-on-one-communication-to-help-identify-and-resolve-policy-violations-prior-to-automated-and-irreversible-suspensions</a></li>
+</ul>
+</li>
+	<li>Android@31c3
+<a href="https://ccc.devsn.se/congress/2014/wiki/Session:Secure_your_Android">https://ccc.devsn.se/congress/2014/wiki/Session:Secure_your_Android</a></li>
+	<li>SS7: Locate. Track. Manipulate.
+<a href="http://media.ccc.de/browse/congress/2014/31c3_-_6249_-_en_-_saal_1_-_201412271715_-_ss7_locate_track_manipulate_-_tobias_engel.html#video">http://media.ccc.de/browse/congress/2014/31c3_-_6249_-_en_-_saal_1_-_201412271715_-_ss7_locate_track_manipulate_-_tobias_engel.html#video</a></li>
+	<li>Snoop Snitch <a href="https://play.google.com/store/apps/details?id=de.srlabs.snoopsnitch&hl=en">https://play.google.com/store/apps/details?id=de.srlabs.snoopsnitch&hl=en</a></li>
+	<li>Tampering protection: <a href="http://www.airpair.com/android/posts/adding-tampering-detection-to-your-android-app">http://www.airpair.com/android/posts/adding-tampering-detection-to-your-android-app</a></li>
+	<li>Piracy protection
+<a href="http://torrentfreak.com/android-dev-punishes-pirates-at-the-behest-of-reddit-150203/">http://torrentfreak.com/android-dev-punishes-pirates-at-the-behest-of-reddit-150203/</a></li>
+	<li>Android secret codes:
+<ul>
+	<li><a href="http://simonmarquis.github.io/Android-SecretCodes/">http://simonmarquis.github.io/Android-SecretCodes/</a></li>
+</ul>
+</li>
+	<li>Ich habe etwas open sourced
+<ul>
+	<li><a href="https://github.com/sensorberg-dev/android-frontend-scanner">https://github.com/sensorberg-dev/android-frontend-scanner</a></li>
+	<li>Become a beacon S5 möglich</li>
+</ul>
+</li>
+	<li>Upload to Play
+<ul>
+	<li><a href="https://developers.google.com/android-publisher/api_usage">https://developers.google.com/android-publisher/api_usage</a></li>
+	<li><a href="https://github.com/Triple-T/gradle-play-publisher">https://github.com/Triple-T/gradle-play-publisher</a></li>
+</ul>
+</li>
+	<li>Neues Gradle Test Framework. Beispiel:
+<a href="https://github.com/ligi/AndroidNewUnitTestTest">https://github.com/ligi/AndroidNewUnitTestTest</a></li>
+	<li>Amazon automatic app testing
+<a href="https://developer.amazon.com/public/resources/development-tools/app-testing-service/dashboard.html">https://developer.amazon.com/public/resources/development-tools/app-testing-service/dashboard.html</a></li>
+	<li>WebKit Vulnerabilities
+<a href="https://plus.google.com/+AdrianLudwig/posts/1md7ruEwBLF">https://plus.google.com/+AdrianLudwig/posts/1md7ruEwBLF</a></li>
+	<li>Fabric Event in Berlin 26.2.2015
+<a href="http://twitterflockberlin.splashthat.com/">http://twitterflockberlin.splashthat.com/</a></li>
+	<li>DragonBox <a href="https://play.google.com/store/apps/details?id=com.wewanttoknow.DragonBoxPlus&hl=en">5+</a><a href="https://play.google.com/store/apps/details?id=com.wewanttoknow.DragonBox2&hl=en">12+</a></li>
+	<li><a href="https://play.google.com/store/apps/details?id=com.wewanttoknow.Euclid&hl=en">DragonBox Elements</a></li>
+	<li>XPosedBridge
+<a href="https://github.com/rovo89/XposedBridge/wiki/Development-tutorial">https://github.com/rovo89/XposedBridge/wiki/Development-tutorial</a></li>
+	<li>Droidcon ist divers
+<ul>
+	<li><a href="http://droidcon.de/news/its-2015-time-be-diverse">http://droidcon.de/news/its-2015-time-be-diverse</a></li>
+	<li><a href="http://droidcon.de/call-papers">http://droidcon.de/call-papers</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>Richtig Http Cachen ist schwierig
+<ul>
+	<li><a href="https://github.com/square/okhttp/tree/master/mockwebserver">https://github.com/square/okhttp/tree/master/mockwebserver</a></li>
+</ul>
+</li>
+	<li><a href="https://github.com/orfjackal/retrolambda">https://github.com/orfjackal/retrolambda</a></li>
+	<li>Mit Groovy Android Apps entwickeln
+<a href="http://www.heise.de/open/meldung/JVM-Sprache-Mit-Groovy-Android-Apps-entwickeln-2525672.html">http://www.heise.de/open/meldung/JVM-Sprache-Mit-Groovy-Android-Apps-entwickeln-2525672.html</a></li>
+	<li>DashClock Widget
+<a href="https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock">https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock
+</a><a href="https://code.google.com/p/dashclock/">https://code.google.com/p/dashclock/</a></li>
+	<li>OpenKeychain
+<a href="https://github.com/open-keychain/open-keychain">https://github.com/open-keychain/open-keychain</a></li>
+	<li>Nexus 9</li>
+	<li>Lamda unter Java 7
+<ul>
+	<li><a href="https://github.com/evant/gradle-retrolambda/issues/80">https://github.com/evant/gradle-retrolambda/issues/80</a></li>
+</ul>
+</li>
+</ul>]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2015%2F02%2F03%2Fpd045-verschollen%2F&amp;language=de_DE&amp;category=audio&amp;title=PD045+%26%238211%3B+Falko+ist+verschollen&amp;description=Mit+Dirk%2C+Falko+und+cketti.+Wenn+man+gucken+will+ob+man+aus+den+PlayStore+ist+https%3A%2F%2Fgithub.com%2Fbitstadium%2FHockeySDK-Android%2Fblob%2Fdevelop%2Fsrc%2Fmain%2Fjava%2Fnet%2Fhockeyapp%2Fandroid%2FUpdateManager.java+private+static+boolean+installedFromMarket+Bouncer+http%3A%2F%2Fblog.trendmicro.com%2Ftrendlabs-security-intelligence%2Fa-look-at-google-bouncer%2F+http%3A%2F%2Fgooglemobile.blogspot.co.uk%2F2012%2F02%2Fandroid-and-security.html+Petition+https%3A%2F%2Fwww.change.org%2Fp%2Fgoogle-inc-provide-android-developers-with-one-on-one-communication-to-help-identify-and-resolve-policy-violations-prior-to-automated-and-irreversible-suspensions+Android%4031c3+https%3A%2F%2Fccc.devsn.se%2Fcongress%2F2014%2Fwiki%2FSession%3ASecure_your_Android+SS7%3A+Locate.+Track....&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2015/02/03/pd045-verschollen/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/Pandroid45.mp3" length="98287312" type="audio/mpeg" /><itunes:duration>01:57:00</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>Mit Dirk, Falko und cketti.
+
+	Wenn man gucken will ob man aus den PlayStore ist
+	https://github.com/bitstadium/HockeySDK-Android/blob/develop/src/main/java/net/hockeyapp/android/UpdateManager.java
+
+	private static boolean installedFromMarket
+
+
+	Bouncer
+
+	http://blog.trendmicro.com/trendlabs-security-intelligence/a-look-at-google-bouncer/
+	http://googlemobile.blogspot.co.uk/2012/02/android-and-security.html
+
+
+	Petition
+
+	https://www.change.org/p/google-inc-provide-android-developers-with-one-on-one-communication-to-help-identify-and-resolve-policy-violations-prior-to-automated-and-irreversible-suspensions
+
+
+	Android@31c3
+https://ccc.devsn.se/congress/2014/wiki/Session:Secure_your_Android
+	SS7: Locate. Track. Manipulate.
+http://media.ccc.de/browse/congress/2014/31c3_-_6249_-_en_-_saal_1_-_201412271715_-_ss7_locate_track_manipulate_-_tobias_engel.html#video
+	Snoop Snitch https://play.google.com/store/apps/details?id=de.srlabs.snoopsnitch&amp;hl=en
+	Tampering protection: http://www.airpair.com/android/posts/adding-tampering-detection-to-your-android-app
+	Piracy protection
+http://torrentfreak.com/android-dev-punishes-pirates-at-the-behest-of-reddit-150203/
+	Android secret codes:
+
+	http://simonmarquis.github.io/Android-SecretCodes/
+
+
+	Ich habe etwas open sourced
+
+	https://github.com/sensorberg-dev/android-frontend-scanner
+	Become a beacon S5 möglich
+
+
+	Upload to Play
+
+	https://developers.google.com/android-publisher/api_usage
+	https://github.com/Triple-T/gradle-play-publisher
+
+
+	Neues Gradle Test Framework. Beispiel:
+https://github.com/ligi/AndroidNewUnitTestTest
+	Amazon automatic app testing
+https://developer.amazon.com/public/resources/development-tools/app-testing-service/dashboard.html
+	WebKit Vulnerabilities
+https://plus.google.com/+AdrianLudwig/posts/1md7ruEwBLF
+	Fabric Event in Berlin 26.2.2015
+http://twitterflockberlin.splashthat.com/
+	DragonBox 5+12+
+	DragonBox Elements
+	XPosedBridge
+https://github.com/rovo89/XposedBridge/wiki/Development-tutorial
+	Droidcon ist divers
+
+	http://droidcon.de/news/its-2015-time-be-diverse
+	http://droidcon.de/call-papers
+
+
+
+
+	Richtig Http Cachen ist schwierig
+
+	https://github.com/square/okhttp/tree/master/mockwebserver
+
+
+	https://github.com/orfjackal/retrolambda
+	Mit Groovy Android Apps entwickeln
+http://www.heise.de/open/meldung/JVM-Sprache-Mit-Groovy-Android-Apps-entwickeln-2525672.html
+	DashClock Widget
+https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock
+https://code.google.com/p/dashclock/
+	OpenKeychain
+https://github.com/open-keychain/open-keychain
+	Nexus 9
+	Lamda unter Java 7
+
+	https://github.com/evant/gradle-retrolambda/issues/80</itunes:summary>	</item>
+		<item>
+		<title>PD044 &#8211; Abgelehnt</title>
+		<link>https://pandroid.c-base.org/2015/01/08/pd044-abgelehnt/</link>
+		<pubDate>Thu, 08 Jan 2015 20:07:51 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2015-01-07t21:35:10+00:00-ca07728463fd768</guid>
+		<description><![CDATA[Unterschreibt die Petition! Kontaktiert die Google Android Developer Advocates!]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2015%2F01%2F08%2Fpd044-abgelehnt%2F&amp;language=de_DE&amp;category=audio&amp;title=PD044+%26%238211%3B+Abgelehnt&amp;description=Unterschreibt+die+Petition%21+Kontaktiert+die+Google+Android+Developer+Advocates%21+Wir+w%C3%BCnschen+uns+eine+bessere+Komunikation%3A+https%3A%2F%2Fsupport.google.com%2Fgoogleplay%2Fandroid-developer%2Fanswer%2F2477981%3Fhl%3Den+We+will+only+reinstate+applications+if+an+error+was+made%2C+and+a+re-review+finds...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2015/01/08/pd044-abgelehnt/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/Pandroid44.mp3" length="9141670" type="audio/mpeg" /><itunes:duration>00:00:00</itunes:duration><itunes:author></itunes:author><itunes:subtitle>PD044 - Abgelehnt</itunes:subtitle><itunes:summary>Unterschreibt die Petition! Kontaktiert die Google Android Developer Advocates!</itunes:summary>	</item>
+		<item>
+		<title>PD043 &#8211; R versus Butterknife</title>
+		<link>https://pandroid.c-base.org/2014/12/03/pd043-r-versus-butterknife/</link>
+		<pubDate>Wed, 03 Dec 2014 07:47:49 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-12-02t21:14:40+00:00-e1d45a65ec7f83a</guid>
+		<description><![CDATA[PD043 - R versus Butterknife]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2014%2F12%2F03%2Fpd043-r-versus-butterknife%2F&amp;language=de_DE&amp;category=audio&amp;title=PD043+%26%238211%3B+R+versus+Butterknife&amp;description=Mit+Falko+und+Dirk+OMFG%3A+Gradle+erlaubt+nicht+%28mehr%29+die+Adressierung+von+vorherigen+SNAPSHOT+releases%21%21%21+lokale%C2%A0aar+Datei+als+Dependency+%28Documentation%29%3A+configurations.create%28%26%238220%3Bdefault%26%238221%3B%29+artifacts.add%28%26%238220%3Bdefault%26%238221%3B%2C+file%28%26%238216%3Blibrary-0.0.2-SNAPSHOT.aar%26%238217%3B%29%29+Hugo+%40DebugLog+Timber+R+variables+not+final...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2014/12/03/pd043-r-versus-butterknife/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD043.mp3" length="62835319" type="audio/mpeg" /><itunes:duration>01:14:48</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD042 &#8211; Nicht viel Inhalt</title>
+		<link>https://pandroid.c-base.org/2014/11/05/pd042-nicht-viel-inhalt/</link>
+		<pubDate>Tue, 04 Nov 2014 23:07:28 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-11-04t21:05:34+00:00-1faf3708da85357</guid>
+		<description><![CDATA[PD042 - Nicht viel Inhalt]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2014%2F11%2F05%2Fpd042-nicht-viel-inhalt%2F&amp;language=de_DE&amp;category=audio&amp;title=PD042+%26%238211%3B+Nicht+viel+Inhalt&amp;description=%26nbsp%3B+Android+T-Shirts+http%3A%2F%2Fteespring.com%2Fandroid01+http%3A%2F%2Fteespring.com%2Fandroid02+Using+retrofithttps%3A%2F%2Fsquare.github.io%2Fretrofit%2F+Neues+Android+%E2%80%9CL%E2%80%9D-ollipop+preview+image+%28LPX13D%29+http%3A%2F%2Faosp.changelog.to%2Faosp-LRX21L-LRX21M.html+https%3A%2F%2Fdeveloper.android.com%2Fpreview%2Findex.html+Dirk+hat+ein+OnePlus+One+bestellt+Falko+auch+Shop+war+kaputt+Multidexhttps%3A%2F%2Fdeveloper.android.com%2Ftools%2Fbuilding%2Fmultidex.html+Andy+Rubin+verl%C3%A4sst...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2014/11/05/pd042-nicht-viel-inhalt/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD042.mp3" length="36009071" type="audio/mpeg" /><itunes:duration>00:42:51</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD041 &#8211; macht serbisch, nicht schneller</title>
+		<link>https://pandroid.c-base.org/2014/10/09/pd041-macht-serbisch-nicht-schneller/</link>
+		<pubDate>Thu, 09 Oct 2014 06:03:59 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-10-08t12:10:03+00:00-9a3f4ea6fb04ae7</guid>
+		<description><![CDATA[PD041 - macht serbisch, nicht schneller]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2014%2F10%2F09%2Fpd041-macht-serbisch-nicht-schneller%2F&amp;language=de_DE&amp;category=audio&amp;title=PD041+%26%238211%3B+macht+serbisch%2C+nicht+schneller&amp;description=Wir+diskutieren+%C3%BCber+%E2%80%9Cmulti-dex%E2%80%9D+https%3A%2F%2Fcode.google.com%2Fp%2Fmaven-android-plugin%2Fissues%2Fdetail%3Fid%3D280+https%3A%2F%2Fcode.google.com%2Fp%2Fandroid%2Fissues%2Fdetail%3Fid%3D7147+%E2%80%9CThis+library+provides+compatibility+for+platforms+with+API+level+4+through+20.+This+library+does+nothing+on+newer+versions+of+the+platform+which+provide...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2014/10/09/pd041-macht-serbisch-nicht-schneller/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid41.mp3" length="118008065" type="audio/mpeg" /><itunes:duration>02:20:29</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD040 &#8211; Optionale Permissions</title>
+		<link>https://pandroid.c-base.org/2014/09/04/pd040-optionale-permissions/</link>
+		<pubDate>Wed, 03 Sep 2014 23:36:51 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-09-03t10:47:24+00:00-65163d185b60fba</guid>
+		<description><![CDATA[PD040 - Optionale Permissions]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2014%2F09%2F04%2Fpd040-optionale-permissions%2F&amp;language=de_DE&amp;category=audio&amp;title=PD040+%26%238211%3B+Optionale+Permissions&amp;description=G%C3%A4ste%3A+Mr.+Ligi+und+cketti+Optionale+permissions+via+sharedUID+http%3A%2F%2Fwww.reddit.com%2Fr%2FBitcoin%2Fcomments%2F2dvmie%2Fyou_spoke_we_listened_hive_android_now_requires+Neenbedankt+%28%40Frozen+%40Argument%29+http%3A%2F%2Fcode.neenbedankt.com%2Fmanage-android-state-with-bundles-frozen%2F+Dagger+2.0+announcement+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoK_XtfXPkqw+Gradle+summit+talks+online+%C2%A0%28plugin+talk+pretty+interesting%29+%C2%A0http%3A%2F%2Fwww.gradleware.com%2Ftag%2Fandroid%2F+jcenter+new+android...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2014/09/04/pd040-optionale-permissions/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD040-optional-permissions.mp3" length="85523918" type="audio/mpeg" /><itunes:duration>01:29:05</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD039 &#8211; Big Ben</title>
+		<link>https://pandroid.c-base.org/2014/08/07/pd039-big-ben/</link>
+		<pubDate>Thu, 07 Aug 2014 19:10:00 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-08-07t18:57:16+00:00-b2baffc84617ffd</guid>
+		<description><![CDATA[PD039 - Big Ben]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2014%2F08%2F07%2Fpd039-big-ben%2F&amp;language=de_DE&amp;category=audio&amp;title=PD039+%26%238211%3B+Big+Ben&amp;description=Fire+Phone+4+cameras+Dynamic+Perspective+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw95kwXy_MOY+API+Amazon+Services%2C+Firefly+%28detect+everything%29+expensive+phone%2C+flagship+device+NFC%2C+Bluetooth+3.0+Android+4.2.2+Why+you+don%C2%B4t+nee+to+buy+it%3A+http%3A%2F%2Fventurebeat.com%2F2014%2F08%2F04%2F5-reasons-i-wont-buy-amazons-fire-phone%2F...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2014/08/07/pd039-big-ben/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid39.mp3" length="55236513" type="audio/mpeg" /><itunes:duration>01:05:45</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD038 &#8211; Cardboard</title>
+		<link>https://pandroid.c-base.org/2014/07/01/pd038-cardboard/</link>
+		<pubDate>Tue, 01 Jul 2014 20:45:36 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-07-01t20:43:53+00:00-139cfac1d051532</guid>
+		<description><![CDATA[PD038 - Cardboard]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2014%2F07%2F01%2Fpd038-cardboard%2F&amp;language=de_DE&amp;category=audio&amp;title=PD038+%26%238211%3B+Cardboard&amp;description=Mit+Dirk+%26amp%3B%C2%A0Falko+Themen+Blick+%C3%BCber+den+Tellerrand+WWDC+neue+Programmiersprache+Swift+closures+keine+eckigen+Klammern+access+control+%28still%29+missing+playgrounds+coderunner+https%3A%2F%2Ftwitter.com%2Fvolkersfreunde%2Fstatus%2F481470342570180608+same+concept+for+scripts+piles+of+poo...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2014/07/01/pd038-cardboard/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid38.mp3" length="105204806" type="audio/mpeg" /><itunes:duration>02:05:14</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD037 &#8211; Quietschender Stuhl</title>
+		<link>https://pandroid.c-base.org/2014/06/05/pd037/</link>
+		<pubDate>Wed, 04 Jun 2014 22:53:40 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-06-04t22:28:24+00:00-ac24ea6a2b9c62a</guid>
+		<description><![CDATA[PD037 - Quietschender Stuhl]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2014%2F06%2F05%2Fpd037%2F&amp;language=de_DE&amp;category=audio&amp;title=PD037+%26%238211%3B+Quietschender+Stuhl&amp;description=Ich+%28Dirk%29+habe+die+Aufnahme+vergeigt+und+entschuldige+mich+f%C3%BCr+die+schlechte+Audioqualit%C3%A4t.+So+h%C3%B6rt+sich+das+an%2C+wenn+Ihr+einen+Podcast+mit+dem+internen+Mikrofon+eines+MacBook+Air+11%26%238243%3B...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2014/06/05/pd037/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/Pandroid37.mp3" length="79756199" type="audio/mpeg" /><itunes:duration>01:34:56</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD036 &#8211; Droidcon 2014</title>
+		<link>https://pandroid.c-base.org/2014/05/20/pd036-droidcon-2014/</link>
+		<pubDate>Tue, 20 May 2014 21:19:34 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-05-20t21:08:21+00:00-8921085d977d994</guid>
+		<description><![CDATA[PD036 - Droidcon 2014]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2014%2F05%2F20%2Fpd036-droidcon-2014%2F&amp;language=de_DE&amp;category=audio&amp;title=PD036+%26%238211%3B+Droidcon+2014&amp;description=%26nbsp%3B+Gradle+Experimenting+Install+specific+version+of+gradle+using+brew+http%3A%2F%2Fstackoverflow.com%2Fquestions%2F3987683%2Fhomebrew-install-specific-version-of-formula+brew+switch+gradle+1.10+Link+to+the+old+verson+of+gradle%3A+brew+install+brew+install+https%3A%2F%2Fraw.githubusercontent.com%2FHomebrew%2Fhomebrew%2F2b1042220ace9d7780ebf029b2f2482b0e3336d5%2FLibrary%2FFormula%2Fgradle.rb+When+Google+Decides...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2014/05/20/pd036-droidcon-2014/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/Pandroid36.mp3" length="73205521" type="audio/mpeg" /><itunes:duration>01:27:08</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD035 &#8211; Pokebeacon</title>
+		<link>https://pandroid.c-base.org/2014/04/01/pd035-pokebeacon/</link>
+		<pubDate>Tue, 01 Apr 2014 20:54:18 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-04-01t20:46:06+00:00-794416d4bc1f1e0</guid>
+		<description><![CDATA[PD035 - Pokebeacon]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2014%2F04%2F01%2Fpd035-pokebeacon%2F&amp;language=de_DE&amp;category=audio&amp;title=PD035+%26%238211%3B+Pokebeacon&amp;description=Es+ist+April+Google%3A+http%3A%2F%2Fthenextweb.com%2Fgoogle%2F2014%2F03%2F31%2Fround-googles-jokes-april-fools-day-2014+Jetbrains+http%3A%2F%2Fblog.jetbrains.com%2Fidea%2F2014%2F04%2Fwhere-is-intellij-idea-headed%2F+StackoverFlow+Unicoins+http%3A%2F%2Fmeta.stackoverflow.com%2Fquestions%2F227363%2Fwhat-are-stack-overflow-unicoins+Nokia+3310+remake+http%3A%2F%2Fconversations.nokia.com%2F2014%2F04%2F01%2Fnokia-3310-gets-41-megapixel-windows-phone-makeover%2F+HTC+und+samsung+http%3A%2F%2Fgadgets.ndtv.com%2Fothers%2Fnews%2Fsamsung-and-htc-both-show-off-smart-gloves-on-april-fools-day-502910+http%3A%2F%2Fwww.ifixit.com+-%26gt%3B+Apple+https%3A%2F%2Fs3.amazonaws.com%2Fcrisss1205%2Findex.html+-%26gt%3B+Pokemon+maps+Wir+sammelten+Pok%C3%A9mon+Nokia+X...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2014/04/01/pd035-pokebeacon/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD035.mp3" length="77850482" type="audio/mpeg" /><itunes:duration>01:32:40</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD034 &#8211; Darf ich mal anfassen?</title>
+		<link>https://pandroid.c-base.org/2014/03/05/pd034-darf-ich-mal-anfassen/</link>
+		<pubDate>Wed, 05 Mar 2014 07:41:01 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-03-04t22:47:54+00:00-9797ff98ff57edd</guid>
+		<description><![CDATA[PD034 - Darf ich mal anfassen?]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2014%2F03%2F05%2Fpd034-darf-ich-mal-anfassen%2F&amp;language=de_DE&amp;category=audio&amp;title=PD034+%26%238211%3B+Darf+ich+mal+anfassen%3F&amp;description=Mobile+World+Congress+1%2F2+Caterpiller+Android+Phone+http%3A%2F%2Fyotaphone.com+https%3A%2F%2Fwww.blackphone.ch+Nokia+X+http%3A%2F%2Fwww.nokia.com%2Fglobal%2Fproducts%2Fnokia-x+http%3A%2F%2Fwww.xda-developers.com%2Fandroid%2Fnokia-x-rooted-and-loaded-with-google-apps-play-store-and-google-now-launcher+Double.isNaN%28double+d%29+Bitstaub+BS001+http%3A%2F%2Fbitstaub.diskordia.org+Adjacent+Fragment+Pager+https%3A%2F%2Fgithub.com%2FJakeWharton%2Fadjacent-fragment-pager-sample+Cardslib+https%3A%2F%2Fgithub.com%2Fgabrielemariotti%2Fcardslib+android-switch-backport+https%3A%2F%2Fgithub.com%2FBoD%2Fandroid-switch-backport+Better+picker+https%3A%2F%2Fgithub.com%2Fderekbrameyer%2Fandroid-betterpickers+SMP...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2014/03/05/pd034-darf-ich-mal-anfassen/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD034-darf-ich-mal-anfassen.mp3" length="121423493" type="audio/mpeg" /><itunes:duration>02:24:32</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD033 &#8211; Bitcoin</title>
+		<link>https://pandroid.c-base.org/2014/02/07/pd033-bitcoin/</link>
+		<pubDate>Fri, 07 Feb 2014 01:20:18 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-02-07t00:40:43+00:00-93a9811e2b142c1</guid>
+		<description><![CDATA[PD033 - Bitcoin]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2014%2F02%2F07%2Fpd033-bitcoin%2F&amp;language=de_DE&amp;category=audio&amp;title=PD033+%26%238211%3B+Bitcoin&amp;description=Bitcoin+Wallet+https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dde.schildbach.wallet+%C3%96ffi+https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dde.schildbach.oeffi+Public+Transport+Enabler+%28GPL%29+https%3A%2F%2Fcode.google.com%2Fp%2Fpublic-transport-enabler%2F+How+In-app+purchases+destroy+Gaming+http%3A%2F%2Fosito.io%2Fpost%2F75469696160%2Fking-supercell-and-ea-are-destroying-gaming+Reaper+https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dnet.hexage.reaper+Non-PlayStore-IAP+verboten+https%3A%2F%2Fplus.google.com%2F109338406398631174189%2Fposts%2FNFZAm8MDpjz+Google+Maps+Alternativen+OSMDroid+6.99%E2%82%AC+https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dnet.osmand+GPS+Navigation+%26amp%3B...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2014/02/07/pd033-bitcoin/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD033-Bitcoin.mp3" length="136357068" type="audio/mpeg" /><itunes:duration>00:00:00</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Pandroid – Droidcon London AIDE (nachgereicht)</title>
+		<link>https://pandroid.c-base.org/2014/01/16/pandroid-droidcon-london-aide-nachgereicht-2/</link>
+		<pubDate>Thu, 16 Jan 2014 22:06:08 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-01-16t22:03:38+00:00-c280f75c325c532</guid>
+		<description><![CDATA[Pandroid – Droidcon London AIDE (nachgereicht)]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2014%2F01%2F16%2Fpandroid-droidcon-london-aide-nachgereicht-2%2F&amp;language=de_DE&amp;category=audio&amp;title=Pandroid+%E2%80%93+Droidcon+London+AIDE+%28nachgereicht%29&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2014/01/16/pandroid-droidcon-london-aide-nachgereicht-2/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/Aufnahme-8.mp3" length="5803235" type="audio/mpeg" /><itunes:duration>00:00:00</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD032 &#8211; 30c3 mit ohne Motto</title>
+		<link>https://pandroid.c-base.org/2014/01/08/pd032-30c3-mit-ohne-motto/</link>
+		<pubDate>Wed, 08 Jan 2014 11:01:09 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=688</guid>
+		<description><![CDATA[PD032 - 30c3 mit ohne Motto]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2014%2F01%2F08%2Fpd032-30c3-mit-ohne-motto%2F&amp;language=de_DE&amp;category=audio&amp;title=PD032+%26%238211%3B+30c3+mit+ohne+Motto&amp;description=DDI%4030c3+5192+http%3A%2F%2Fmedia.ccc.de%2Fbrowse%2Fcongress%2F2013%2F30C3_-_5192_-_en_-_saal_1_-_201312291600_-_android_ddi_-_collin_mulliner.html+http%3A%2F%2Fmulliner.org%2Fandroid%2F+www.patchdroid.com+Seidenstra%C3%9Fe+ist+toll%21+https%3A%2F%2Fevents.ccc.de%2Fcongress%2F2013%2Fwiki%2FProjects%3ASeidenStrasse+Glass+hacks+http%3A%2F%2F30c3.mirror.speedpartner.de%2FCCC%2F30C3%2Fmp4-hd%2F30c3-5537-en-Glass_Hacks_h264-hd.mp4+kein+hardware+recording+indicator+Es+gibt+auch+Alternativen%3A+http%3A%2F%2Fwww.golem.de%2Fnews%2Faugmented-reality-epson-bringt-neue-datenbrille-mit-spielen-1401-103737.html+OI+Shopping+list+GlassWare+branch+https%3A%2F%2Fgithub.com%2Fopenintents%2Fshoppinglist%2Ftree%2Fglassware+Moto+G+gut...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2014/01/08/pd032-30c3-mit-ohne-motto/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/30c3-5537-en-Glass_Hacks_h264-hd.mp3" length="88536678" type="audio/mpeg" /><itunes:duration>01:45:24</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD031- Bitte benutzen Sie kein Fremdzubehör!</title>
+		<link>https://pandroid.c-base.org/2013/12/04/pd031-bitte-benutzen-sie-kein-fremdzubehor/</link>
+		<pubDate>Wed, 04 Dec 2013 09:27:01 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=677</guid>
+		<description><![CDATA[PD031- Bitte benutzen Sie kein Fremdzubehör!]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2013%2F12%2F04%2Fpd031-bitte-benutzen-sie-kein-fremdzubehor%2F&amp;language=de_DE&amp;category=audio&amp;title=PD031-+Bitte+benutzen+Sie+kein+Fremdzubeh%C3%B6r%21&amp;description=Dirk+Stefan+Hoth+fragt+den+Android+Stammtisch+nach+interessanten+Libraries+und+Tools+https%3A%2F%2Fgist.github.com%2Fstefanhoth%2F7683055+Mockito+https%3A%2F%2Fcode.google.com%2Fp%2Fmockito+Nexus+One+gets+unofficial+KitKat+ROM+http%3A%2F%2Fwww.talkandroid.com%2F186154-nexus-one-and-nexus-s-get-unofficial-kitkat-roms+Jolla+http%3A%2F%2Fwww.jolla.com+1password+Android+client+https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.onepassword.passwordmanager+SMS+exploit...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2013/12/04/pd031-bitte-benutzen-sie-kein-fremdzubehor/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid31.mp3" length="60895512" type="audio/mpeg" /><itunes:duration>01:12:30</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD030 &#8211; DevDroidFest London</title>
+		<link>https://pandroid.c-base.org/2013/11/06/pd030-devdroidfest-london/</link>
+		<pubDate>Tue, 05 Nov 2013 23:01:13 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=671</guid>
+		<description><![CDATA[PD030 - DevDroidFest London]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2013%2F11%2F06%2Fpd030-devdroidfest-london%2F&amp;language=de_DE&amp;category=audio&amp;title=PD030+%26%238211%3B+DevDroidFest+London&amp;description=Droidcon+London+Donnerstag+Barcamp+Conference+http%3A%2F%2Fblogmobile.itude.com%2F2013%2F10%2F24%2Ffirst-day-at-droidcon-uk-2013%2F+Freitag+Conference+Android+healthcare+https%3A%2F%2Fplus.google.com%2F%2BLindenDarling%2Fposts+cupboard+ORM+https%3A%2F%2Fbitbucket.org%2Fqbusict%2Fcupboard%2Fwiki%2FwithDatabase+Little+eye+profiling+http%3A%2F%2Fwww.littleeye.co+Facebook+testet+in+Neuseeland+New+Android+Emulator+in+town+%28Virtualbox%29%3A+Genymotion+https%3A%2F%2Fcloud.genymotion.com...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2013/11/06/pd030-devdroidfest-london/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid30.mp3" length="80779174" type="audio/mpeg" /><itunes:duration>01:52:11</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD029 &#8211; SmartThings</title>
+		<link>https://pandroid.c-base.org/2013/10/02/pd029-smartthings/</link>
+		<pubDate>Wed, 02 Oct 2013 20:10:34 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=664</guid>
+		<description><![CDATA[PD029 - SmartThings]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2013%2F10%2F02%2Fpd029-smartthings%2F&amp;language=de_DE&amp;category=audio&amp;title=PD029+%26%238211%3B+SmartThings&amp;description=Sony+Smartwatch+Hackathon+Smartwatch+1+http%3A%2F%2Fdeveloper.sonymobile.com%2F2013%2F06%2F19%2Fopen-smartwatch-project-arduino-publishes-tool-chain-alpha%2F+https%3A%2F%2Fpiratenpad.de%2Fp%2FHZz7XBtcEi+http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsIME9iFhsNk%23t%3D17+http%3A%2F%2Ft3n.de%2Fnews%2Fsmartwatch-2-sonys-neues-493285%2F%3Futm_source%3Dfeedburner%2Bt3n%2BNews%2B12.000er%26amp%3Butm_medium%3Dfeed%26amp%3Butm_campaign%3DFeed%253A%2Baktuell%252Ffeeds%252Frss%2B%2528t3n%2BNews%2529+Uhr+aus+dem+Rahmen+dr%C3%BCcken+Runtastic+http%3A%2F%2Fwww.golem.de%2Fnews%2Fsmartwatch-2-im-hands-on-sonys-neue-smartwatch-kann-tauchen-1309-101443.html+http%3A%2F%2Fwww.golem.de%2Fnews%2Fandroid-open-source-project-ein-taeufer-fuer-yahoo-statt-google-1309-101665.html+NTAG+21xf+Simple+theme+plugin+f%C3%BCr+Jenkins+https%3A%2F%2Fwiki.jenkins-ci.org%2Fdisplay%2FJENKINS%2FSimple%2BTheme%2BPlugin+Sony+Soundball+Smart+imaging+stand...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2013/10/02/pd029-smartthings/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD029-SmartThings.mp3" length="85632789" type="audio/mpeg" /><itunes:duration>01:41:57</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PrePD029 – Sony Smartwatch 2 Hackathon</title>
+		<link>https://pandroid.c-base.org/2013/09/08/prepd029-sony-smartwatch-2-hackathon/</link>
+		<pubDate>Sun, 08 Sep 2013 08:23:24 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=655</guid>
+		<description><![CDATA[PrePD029 – Sony Smartwatch 2 Hackathon]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2013%2F09%2F08%2Fprepd029-sony-smartwatch-2-hackathon%2F&amp;language=de_DE&amp;category=audio&amp;title=PrePD029+%E2%80%93+Sony+Smartwatch+2+Hackathon&amp;description=Vorab+schon+einmal+f%C3%BCr+euch+ein+kleiner+Bericht+live+vom+Sony+Smartwatch+2+Hackathon%2C+der+gestern+in+Berlin+statt+gefunden+hat%2C+und+auf+dem+Ben+und+Falko+f%C3%BCr+euch+unterwegs...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2013/09/08/prepd029-sony-smartwatch-2-hackathon/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/Pandroid_sony_smartwatch.mp3" length="6347347" type="audio/mpeg" /><itunes:duration>00:07:33</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD028 &#8211; KitKat®</title>
+		<link>https://pandroid.c-base.org/2013/09/04/pd028-kitkat/</link>
+		<pubDate>Wed, 04 Sep 2013 06:36:45 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=644</guid>
+		<description><![CDATA[PD028 - KitKat®]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2013%2F09%2F04%2Fpd028-kitkat%2F&amp;language=de_DE&amp;category=audio&amp;title=PD028+%26%238211%3B+KitKat%C2%AE&amp;description=KitKat%C2%AE+http%3A%2F%2Fwww.android.com%2Fkitkat+Microsoft+kauft+Nokia+http%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fnews%2Fpress%2F2013%2FSep13%2F09-02AnnouncementPR.aspx+https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fnews%2FPress%2F2013%2FSep13%2F09-02email.aspx+Amazon+Maps+https%3A%2F%2Fdeveloper.amazon.com%2Fsdk%2Fmaps%2Fmigrating.html+Alternative+zu+Google+Maps+%28auf+Firefox+OS%29+Nokia+Maps+HERE+http%3A%2F%2Fwww.heise.de%2Fnewsticker%2Fmeldung%2FZTE-verkauft-Firefox-Phone-auf-eBay-1933807.html+JBQ+quits+being+maintainer+of+AOSP+http%3A%2F%2Fwww.androidpolice.com%2F2013%2F08%2F07%2Flegal-issues-with-qualcomm-may-prevent-factory-images-for-new-nexus-7-flo-from-ever-being-published-jbq-strongly-implies%2F+https%3A%2F%2Fplus.google.com%2F112218872649456413744%2Fposts%2F9HHRURorE7g+Last...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2013/09/04/pd028-kitkat/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PDO28-KitKat.mp3" length="54186850" type="audio/mpeg" /><itunes:duration>01:04:30</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD027 &#8211; OHM2013</title>
+		<link>https://pandroid.c-base.org/2013/08/07/pd027-ohm2013/</link>
+		<pubDate>Wed, 07 Aug 2013 14:35:24 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=635</guid>
+		<description><![CDATA[PD027 - OHM2013]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2013%2F08%2F07%2Fpd027-ohm2013%2F&amp;language=de_DE&amp;category=audio&amp;title=PD027+%26%238211%3B+OHM2013&amp;description=OHM+Nachbereitung+http%3A%2F%2Fwww.semanticmerge.com%2Fjava.html+https%3A%2F%2Ftwitter.com%2Fvolkersfreunde%2Fstatus%2F354211123324653568+Nexus+10+Pin+Connector+http%3A%2F%2Fwww.amazon.de%2Fgp%2Fproduct%2FB00B2166BS%2F+Android+security+http%3A%2F%2Fbluebox.com%2Fcorporate-blog%2Fbluebox-uncovers-android-master-key%2F+Skype+for+Android+Lockscreen+Bypass+http%3A%2F%2Fseclists.org%2Ffulldisclosure%2F2013%2FJul%2F6+https%3A%2F%2Fwww.securelist.com%2Fen%2Fblog%2F8106%2FThe_most_sophisticated_Android_Trojan+Smart+Watch+2+http%3A%2F%2Fwww.sonymobile.com%2Fglobal-en%2Fproducts%2Faccessories%2Fsmartwatch-2-sw2+https%3A%2F%2Fcode.google.com%2Fp%2Fopenliveview%2F+droidcon+http%3A%2F%2Fuk.droidcon.com%2F2013%2F+min-sdk+14+%E2%80%9CBlinde+die...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2013/08/07/pd027-ohm2013/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD027-OHM2013.mp3" length="73449404" type="audio/mpeg" /><itunes:duration>01:27:26</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD026 – OOH! JA!</title>
+		<link>https://pandroid.c-base.org/2013/07/03/pd026-ooh-ja/</link>
+		<pubDate>Tue, 02 Jul 2013 23:20:03 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=623</guid>
+		<description><![CDATA[PD026 – OOH! JA!]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2013%2F07%2F03%2Fpd026-ooh-ja%2F&amp;language=de_DE&amp;category=audio&amp;title=PD026+%E2%80%93+OOH%21+JA%21&amp;description=Wir+haben+einen+Moderator%2C+bitte+f%C3%BCr+Themenvorschl%C3%A4ge+nutzen.+Alternativ+kann+man+uns%C2%A0app.net%2C+twitter+und+Google%2B%C2%A0erreichen.+Heute+an+den+Mikrophonen%3A+Dirk+%28a%2Ct%2Cg%29+und%C2%A0Falko+%28a%2Ct%2Cg%29+Themen+Ouya+%28Sprich+Ohh-Ja%21%29+Zoll+alles+halb...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2013/07/03/pd026-ooh-ja/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD026-Ouya.mp3" length="73356475" type="audio/mpeg" /><itunes:duration>01:27:20</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD025 &#8211; Trolololo</title>
+		<link>https://pandroid.c-base.org/2013/06/05/pd025-trolololo/</link>
+		<pubDate>Wed, 05 Jun 2013 12:01:20 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=609</guid>
+		<description><![CDATA[PD025 - Trolololo]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2013%2F06%2F05%2Fpd025-trolololo%2F&amp;language=de_DE&amp;category=audio&amp;title=PD025+%26%238211%3B+Trolololo&amp;description=Es+gibt+wohl+eine+Pause+in+der+Aufzeichnung+bei+Minute+40%3A14+bis+40%3A36.+Wir+untersuchen+das%21+Dirk+ist+wieder+%C2%A0fremd+gegangen+http%3A%2F%2Fwww.kuechenstud.io%2Fkuechenradio%2Fepisoden%2Fkr359-ingress%2F+Falko+hat+ein+Mikrophon+bestellt+http%3A%2F%2Fwww.thomann.de%2Fde%2Fthe_tbone_hc_95.htm+maven+archetype...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2013/06/05/pd025-trolololo/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD025-Trolololo.mp3" length="60146965" type="audio/mpeg" /><itunes:duration>01:11:36</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD024 &#8211; Über Farben reden</title>
+		<link>https://pandroid.c-base.org/2013/05/08/pd024-uber-farben-reden/</link>
+		<pubDate>Wed, 08 May 2013 09:33:03 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=598</guid>
+		<description><![CDATA[PD024 - Über Farben reden]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2013%2F05%2F08%2Fpd024-uber-farben-reden%2F&amp;language=de_DE&amp;category=audio&amp;title=PD024+%26%238211%3B+%C3%9Cber+Farben+reden&amp;description=http%3A%2F%2Fwww.bogk-bier.de%2F+Droidcon+review+facebook+%E2%80%9Cwie+wir+entwickeln%E2%80%9D+kein+Android+team+statt+dessen+feature+teams+%28photos%2C+etc.%29+http%3A%2F%2Ffacebook.github.io%2Fbuck%2F+%26lt%3B-+build+tool+Building+high-quality+Android+Apps+%28with+Jenkins+and+Automated+Device+Tests%29...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2013/05/08/pd024-uber-farben-reden/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD024-farben.mp3" length="77546192" type="audio/mpeg" /><itunes:duration>01:32:19</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD023 &#8211; Spooning</title>
+		<link>https://pandroid.c-base.org/2013/04/03/pd023-spooning/</link>
+		<pubDate>Wed, 03 Apr 2013 06:12:16 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=585</guid>
+		<description><![CDATA[PD023 - Spooning]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2013%2F04%2F03%2Fpd023-spooning%2F&amp;language=de_DE&amp;category=audio&amp;title=PD023+%26%238211%3B+Spooning&amp;description=Themen%3A+Falko+hat+sein+Telefon+runtergeschmissen+http%3A%2F%2Fwww.ebay.de%2Fitm%2F151007641289%3FssPageName%3DSTRK%3AMEWNX%3AIT%26amp%3B_trksid%3Dp3984.m1497.l2649+Maven+Aftermath+profiles%2C+curl+in+a+execution+compile+generator%2C+generate+daos+https%3A%2F%2Fgist.github.com%2Fdeadfalkon%2F5294630+apklib+fuckup+exclusion+of+dependencies%3A+https%3A%2F%2Fgithub.com%2Fkeyboardsurfer%2FCrouton%2Fpull%2F82+gists%3A+hockey+upload+https%3A%2F%2Fgist.github.com%2Fdeadfalkon%2F5294517+hockey...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2013/04/03/pd023-spooning/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD023-Spooning.mp3" length="61027243" type="audio/mpeg" /><itunes:duration>01:12:39</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD022 &#8211; Maven</title>
+		<link>https://pandroid.c-base.org/2013/03/06/pd022-maven/</link>
+		<pubDate>Wed, 06 Mar 2013 15:35:36 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=579</guid>
+		<description><![CDATA[PD022 - Maven]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2013%2F03%2F06%2Fpd022-maven%2F&amp;language=de_DE&amp;category=audio&amp;title=PD022+%26%238211%3B+Maven&amp;description=Maven+What+is+Maven%3F+http%3A%2F%2Fmaven.apache.org%2Fwhat-is-maven.html+Search+for+Maven+artifacts+http%3A%2F%2Fsearch.maven.org%2F+Crouton+https%3A%2F%2Fgithub.com%2Fkeyboardsurfer%2FCrouton%2Fblob%2Fmaster%2Fpom.xml+android-times-square+https%3A%2F%2Fgithub.com%2Fsquare%2Fandroid-times-square+Exclusions+http%3A%2F%2Fmaven.apache.org%2Fguides%2Fintroduction%2Fintroduction-to-optional-and-excludes-dependencies.html+Android+SDK+Deployer+https%3A%2F%2Fgithub.com%2Fmosabua%2Fmaven-android-sdk-deployer+Maven+Lifecycles+http%3A%2F%2Fmaven.apache.org%2Fguides%2Fintroduction%2Fintroduction-to-the-lifecycle.html+Maven+Source+Plugin+http%3A%2F%2Fsearch.maven.org%2F%23artifactdetails%257Corg.apache.maven.plugins%257Cmaven-source-plugin%257C2.2.1%257Cmaven-plugin+build+number+plugin...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2013/03/06/pd022-maven/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD022-Maven.mp3" length="94518277" type="audio/mpeg" /><itunes:duration>01:52:31</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD021 &#8211; Ingress</title>
+		<link>https://pandroid.c-base.org/2013/02/07/pd021-ingress/</link>
+		<pubDate>Thu, 07 Feb 2013 21:09:21 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=569</guid>
+		<description><![CDATA[PD021 - Ingress]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2013%2F02%2F07%2Fpd021-ingress%2F&amp;language=de_DE&amp;category=audio&amp;title=PD021+%26%238211%3B+Ingress&amp;description=Die+Show-Notes+sind+diesmal+nach+Personen+gruppiert.+Dirk%3A+Google+Authenticator+zur+Autorisierung+von+Android+Devices+nutzen+Google+two+way+auth+auf+mehr+als+einem+Ger%C3%A4t%3A+https%3A%2F%2Fwww.google.com%2Fsettings%2Fsecurity+-%26gt%3B+2-step+verification+-%26gt%3B...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2013/02/07/pd021-ingress/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD021-ingress.mp3" length="71634075" type="audio/mpeg" /><itunes:duration>01:25:17</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>PD020 &#8211; Dann können wir ja anfangen</title>
+		<link>https://pandroid.c-base.org/2013/01/05/pd020-dann-konnen-wir-ja-anfangen/</link>
+		<pubDate>Sat, 05 Jan 2013 00:16:22 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=555</guid>
+		<description><![CDATA[PD020 - Dann können wir ja anfangen]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2013%2F01%2F05%2Fpd020-dann-konnen-wir-ja-anfangen%2F&amp;language=de_DE&amp;category=audio&amp;title=PD020+%26%238211%3B+Dann+k%C3%B6nnen+wir+ja+anfangen&amp;description=uiautomatorviewer+https%3A%2F%2Fdeveloper.android.com%2Ftools%2Fhelp%2Fuiautomator%2Findex.html+IntelliJ+IDEA+12+https%3A%2F%2Fwww.jetbrains.com%2Fidea%2Fdownload%2Findex.html+git+flow+An+Evaluation+of+the+Application+%28%26%238220%3BApp%26%238221%3B%29+Verification+Service+in+Android+4.2+http%3A%2F%2Fwww.cs.ncsu.edu%2Ffaculty%2Fjiang%2Fappverify%2F+Bluetooth+unter+Android+https%3A%2F%2Fcode.google.com%2Fp%2Fandroid%2Fissues%2Fdetail%3Fid%3D33371+Ouya+http%3A%2F%2Fdelicious.com%2Fredirect%3Furl%3Dhttp%253A%2F%2Fwww.youtube.com%2Fwatch%253Fv%253DxRumLSgpL7w+Gamestick+http%3A%2F%2Fwww.kickstarter.com%2Fprojects%2F872297630%2Fgamestick-the-most-portable-tv-games-console-ever%3Fplay%3D1%26amp%3Bref%3Dusers+M%24+Cross...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2013/01/05/pd020-dann-konnen-wir-ja-anfangen/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/PD020.mp3" length="54455584" type="audio/mpeg" /><itunes:duration>00:00:00</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#19 &#8211; maps reloaded</title>
+		<link>https://pandroid.c-base.org/2012/12/08/19-maps-reloaded/</link>
+		<pubDate>Sat, 08 Dec 2012 14:47:26 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=539</guid>
+		<description><![CDATA[#19 - maps reloaded]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2012%2F12%2F08%2F19-maps-reloaded%2F&amp;language=de_DE&amp;category=audio&amp;title=%2319+%26%238211%3B+maps+reloaded&amp;description=Devfest+2012+http%3A%2F%2Fwww.devfest.info%2Fevent%2Fagenda%2Fag9zfmRldmZlc3RnbG9iYWxyDQsSBUV2ZW50GJOkAQw+MapsHack3000+obsolete+http%3A%2F%2Fdeveloper.android.com%2Fgoogle%2Fplay-services%2Fmaps.html+Socialbearing+%26%238211%3B+Hackerfleet+http%3A%2F%2Fwww.hackerfleet.org%2F+Gradle+ist+das+neue+Build+System+f%C3%BCr+Android+http%3A%2F%2Ftools.android.com%2Ftech-docs%2Fnew-build-system%2Fusing-the-new-build-system+NEXUS+7+3G%C2%A0+Tethering+aktivieren+http%3A%2F%2Fforum.xda-developers.com%2Fshowthread.php%3Ft%3D1995737+Nexus+4+https%3A%2F%2Fwww.google.com%2Fnexus%2F4%2F+Google+Indoor...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2012/12/08/19-maps-reloaded/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid19-cut.output.mp3" length="40755568" type="audio/mpeg" /><itunes:duration>01:04:07</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#18 &#8211; Leider geil (volle Länge)</title>
+		<link>https://pandroid.c-base.org/2012/07/06/18-leider-geil-volle-lange/</link>
+		<pubDate>Fri, 06 Jul 2012 16:07:28 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=472</guid>
+		<description><![CDATA[#18 - Leider geil (volle Länge)]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2012%2F07%2F06%2F18-leider-geil-volle-lange%2F&amp;language=de_DE&amp;category=audio&amp;title=%2318+%26%238211%3B+Leider+geil+%28volle+L%C3%A4nge%29&amp;description=Mit+Ben%2C+Dirk%2C+Falko+und+T.+Ein+bisschen+Aufzeichnung+vom+Public+Hangout+gibt+es+unter%3A+http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZsulGwLKznM+Bitte+werdet+schonmal+Freunde+vom+Pandroid+bei+Google%2B+damit+wir+beim+n%C3%A4chsten+mal+nir...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2012/07/06/18-leider-geil-volle-lange/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid18.mp3" length="65665198" type="audio/mpeg" /><itunes:duration>01:47:33</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#17 &#8211; Schönen Gruß an Tim (volle Länge)</title>
+		<link>https://pandroid.c-base.org/2012/03/30/17-schonen-grus-an-tim-volle-lange/</link>
+		<pubDate>Fri, 30 Mar 2012 14:09:47 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=516</guid>
+		<description><![CDATA[#17 - Schönen Gruß an Tim (volle Länge)]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2012%2F03%2F30%2F17-schonen-grus-an-tim-volle-lange%2F&amp;language=de_DE&amp;category=audio&amp;title=%2317+%26%238211%3B+Sch%C3%B6nen+Gru%C3%9F+an+Tim+%28volle+L%C3%A4nge%29&amp;description=Mit+Ben%2C+Dirk%2C+Falko+und+T+Uns+gibt+es+testweise+auch+bei+soundcloud%3A%C2%A0http%3A%2F%2Fsoundcloud.com%2Fpandroidcast%C2%A0Weil+soundcloud+ein+Limit+auf+120+Minuten+hat+haben+wir+den+Account+sofort+wieder+gel%C3%B6scht.+All+our+subscription...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2012/03/30/17-schonen-grus-an-tim-volle-lange/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid17.mp3" length="68948160" type="audio/mpeg" /><itunes:duration>01:56:32</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#17 &#8211; schönen Gruß an Tim</title>
+		<link>https://pandroid.c-base.org/2012/03/28/17-schoenen-gruss-an-tim/</link>
+		<pubDate>Wed, 28 Mar 2012 11:37:07 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=473</guid>
+		<description><![CDATA[#17 - schönen Gruß an Tim]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2012%2F03%2F28%2F17-schoenen-gruss-an-tim%2F&amp;language=de_DE&amp;category=audio&amp;title=%2317+%26%238211%3B+sch%C3%B6nen+Gru%C3%9F+an+Tim&amp;description=Mit+Ben%2C+Dirk%2C+Falko+und+T+Uns+gibt+es+testweise+auch+bei+soundcloud%3A%C2%A0http%3A%2F%2Fsoundcloud.com%2Fpandroidcast+Weil+soundcloud+ein+Limit+auf+120+Minuten+hat+haben+wir+den+Account+sofort+wieder+gel%C3%B6scht.+All+our...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2012/03/28/17-schoenen-gruss-an-tim/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid17.mp3" length="68948160" type="audio/mpeg" /><itunes:duration>01:56:32</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#17 &#8211; Schönen Gruß an Tim &#8211; Kurzversion</title>
+		<link>https://pandroid.c-base.org/2012/03/28/17-schonen-gruss-an-tim-kurzversion/</link>
+		<pubDate>Wed, 28 Mar 2012 09:55:59 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=495</guid>
+		<description><![CDATA[#17 - Schönen Gruß an Tim - Kurzversion]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2012%2F03%2F28%2F17-schonen-gruss-an-tim-kurzversion%2F&amp;language=de_DE&amp;category=audio&amp;title=%2317+%26%238211%3B+Sch%C3%B6nen+Gru%C3%9F+an+Tim+%26%238211%3B+Kurzversion&amp;description=Hier+die+Kurzversion+des+letzen+Podcast+Kommentare+als+Audio+bitte+bei%C2%A0audioboo.fm&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2012/03/28/17-schonen-gruss-an-tim-kurzversion/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid17short.mp3" length="7585089" type="audio/mpeg" /><itunes:duration>00:12:58</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#16 &#8211; Klappe die Zweite</title>
+		<link>https://pandroid.c-base.org/2012/01/25/16-klappe-die-zweite/</link>
+		<pubDate>Wed, 25 Jan 2012 20:20:25 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=458</guid>
+		<description><![CDATA[#16 - Klappe die Zweite]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2012%2F01%2F25%2F16-klappe-die-zweite%2F&amp;language=de_DE&amp;category=audio&amp;title=%2316+%26%238211%3B+Klappe+die+Zweite&amp;description=Diesmal+dabei%3A+t%2C+Falko%2C+Ben+und+Dirk.+%26%238220%3BBackup+Fuckup%26%238221%3B+life+saver+%28source%29+sms+backup+von+jan+berkel+adb+backup+ist+toll+sms+backup+https%3A%2F%2Fmarket.android.com%2Fdetails%3Fid%3Dcom.zegoggles.smssync+Coole+Sachen+mit+USB+Host+mobile...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2012/01/25/16-klappe-die-zweite/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid_16.mp3" length="97038661" type="audio/mpeg" /><itunes:duration>01:41:05</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#15 &#8211; Galaxy Nexus</title>
+		<link>https://pandroid.c-base.org/2011/12/12/15-galaxy-nexus/</link>
+		<pubDate>Mon, 12 Dec 2011 22:43:30 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=445</guid>
+		<description><![CDATA[#15 - Galaxy Nexus]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2011%2F12%2F12%2F15-galaxy-nexus%2F&amp;language=de_DE&amp;category=audio&amp;title=%2315+%26%238211%3B+Galaxy+Nexus&amp;description=Diesmal+dabei%3A+t%2C+Ben+und+Dirk+%28Falko+musste+arbeiten%29.+10+Milliarden+Downloads+%26%238211%3B+Apps+f%C3%BCr+ca.+10+Cent+https%3A%2F%2Fmarket.android.com%2Fdetails%3Fid%3Dapps_timed_promotion+Fix+Your+European+Android+GPS+Lock+Manually+http%3A%2F%2Fwww.xda-developers.com%2Fandroid%2Ffix-your-european-android-gps-lock-manually%2F+http%3A%2F%2Fforum.xda-developers.com%2Fshowthread.php%3Ft%3D906576+IntelliJ+IDEA...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2011/12/12/15-galaxy-nexus/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/2011-12-12-21_00_00_cut.output.mp3" length="30674566" type="audio/mpeg" /><itunes:duration>00:00:00</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#14 Moto Rasierer</title>
+		<link>https://pandroid.c-base.org/2011/12/02/14-moto-rasierer/</link>
+		<pubDate>Fri, 02 Dec 2011 19:48:57 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=428</guid>
+		<description><![CDATA[#14 Moto Rasierer]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2011%2F12%2F02%2F14-moto-rasierer%2F&amp;language=de_DE&amp;category=audio&amp;title=%2314+Moto+Rasierer&amp;description=Diesmal+dabei%3A+t%2C+Falko%2C+Ben+und+Dirk.+Nicht+ganz+so+schnell+wie+im+Podcast+angek%C3%BCndigt%2C+aber+hier+ist+er%3A+News+Galaxy+Nexus+Lautst%C3%A4rkebug+%28behoben%29+Flash+ist+tot%2C+RIM+macht+weiter...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2011/12/02/14-moto-rasierer/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid14.mp3" length="102348737" type="audio/mpeg" /><itunes:duration>01:46:37</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#13 – Zukunftskompatibel</title>
+		<link>https://pandroid.c-base.org/2011/11/15/13zukunftskompatibel/</link>
+		<pubDate>Tue, 15 Nov 2011 21:21:49 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=419</guid>
+		<description><![CDATA[#13 – Zukunftskompatibel]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2011%2F11%2F15%2F13zukunftskompatibel%2F&amp;language=de_DE&amp;category=audio&amp;title=%2313+%E2%80%93+Zukunftskompatibel&amp;description=Diesmal+dabei%3A+t%2C+Falko%2C+Ben+und+Dirk.+Der+Podcast+ist+am+18.10+aufgezeichnet.+Wir+versprechen+Besserung+in+der+Geschwindigkeit+der+Postproduktion+Mototola+Droid+Razr+http%3A%2F%2Fwww.mobiflip.de%2F2011%2F10%2Fmotorola-stellt-das-droid-razr-offiziell-vor%2F+http%3A%2F%2Fwww.cyberport.de%2F%3FDEEP%3DA406-10U%26amp%3BAPID%3D101+Ice+Cream+Sandwich+http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRX4btquQzUE...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2011/11/15/13zukunftskompatibel/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid13.mp3" length="52524641" type="audio/mpeg" /><itunes:duration>00:54:43</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#12 &#8211; totgesagte leben länger &#8211; cccamp</title>
+		<link>https://pandroid.c-base.org/2011/08/26/12-totgesagte-leben-langer-cccamp/</link>
+		<pubDate>Thu, 25 Aug 2011 22:26:35 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=390</guid>
+		<description><![CDATA[#12 - totgesagte leben länger - cccamp]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2011%2F08%2F26%2F12-totgesagte-leben-langer-cccamp%2F&amp;language=de_DE&amp;category=audio&amp;title=%2312+%26%238211%3B+totgesagte+leben+l%C3%A4nger+%26%238211%3B+cccamp&amp;description=Diesmal+dabei%3A+t%2C+Falko%2C+Mo%2C+Flo+und+Dirk+alternativlos+Podcast+http%3A%2F%2Falternativlos.org+Audio+Boo+http%3A%2F%2Faudioboo.fm%2F+Pandroid+live+im+IRC+irc%3A%2F%2Firc.freenode.net%2Fpandroid+Micro+Bridge+http%3A%2F%2Fcode.google.com%2Fp%2Fmicrobridge+fanb%EF%A3%BFys+podcast+http%3A%2F%2Ffanb%EF%A3%BFys.org%2F+Huawei+IDEOS+http%3A%2F%2Fwww.gsmarena.com%2Fhuawei_u8150_ideos-3513.php+GoogleCL+http%3A%2F%2Fgoogle-opensource.blogspot.com%2F2010%2F06%2Fintroducing-google-command-line-tool.html...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2011/08/26/12-totgesagte-leben-langer-cccamp/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/2011-08-24-totgesagte-leben-laenger-cccamp.mp3" length="75149571" type="audio/mpeg" /><itunes:duration>00:00:00</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#11 Accessory Development Kit</title>
+		<link>https://pandroid.c-base.org/2011/07/31/11-accessory-development-kit/</link>
+		<pubDate>Sun, 31 Jul 2011 21:56:14 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=363</guid>
+		<description><![CDATA[#11 Accessory Development Kit]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2011%2F07%2F31%2F11-accessory-development-kit%2F&amp;language=de_DE&amp;category=audio&amp;title=%2311+Accessory+Development+Kit&amp;description=Diesmal+dabei%3A+t%2C+Falko%2C+Ben+und+Dirk.+Public+Transport+Enabler+%28%C3%96ffi%29+http%3A%2F%2Fcode.google.com%2Fp%2Fpublic-transport-enabler%2F+Der+neue+Android+Market+http%3A%2F%2Fgooglemobile.blogspot.com%2F2011%2F07%2Fnew-android-market-for-phones-with.html+Aptoide+http%3A%2F%2Fwww.aptoide.com%2Findex2.html+Amazon+blockiert+vorerst+deutsche+Apps+f%C3%BCr+den+umstrittenen+Appstore+http%3A%2F%2Fheise.de%2F-1288911.html+Android...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2011/07/31/11-accessory-development-kit/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid-011-accessory-development-kit.mp3" length="42020168" type="audio/mpeg" /><itunes:duration>00:55:41</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#10 NFC und Ben und BLA</title>
+		<link>https://pandroid.c-base.org/2011/07/29/10-nfc-und-ben-und-bla/</link>
+		<pubDate>Thu, 28 Jul 2011 22:18:02 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=340</guid>
+		<description><![CDATA[#10 NFC und Ben und BLA]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2011%2F07%2F29%2F10-nfc-und-ben-und-bla%2F&amp;language=de_DE&amp;category=audio&amp;title=%2310+NFC+und+Ben+und+BLA&amp;description=Cincinnati+Bell+macht+selber+Android+updates+f%C3%BCrs+Milestone+XT720+http%3A%2F%2Fwww.heise.de%2Fopen%2Fartikel%2FDie-Woche-Die-Androiden-die-ich-rief-1275564.html+Back+Means+Back+http%3A%2F%2Fcommonsware.com%2Fblog%2F2011%2F07%2F21%2Fback-means-back.html+Multiple+APKs+im+Android+Market+http%3A%2F%2Fandroid-developers.blogspot.com%2F2011%2F07%2Fmultiple-apk-support-in-android-market.html+Nur+1.2Mio+verkaufte+Android+Tablets%3F+http%3A%2F%2Fwww.androidauthority.com%2Fonly-about-1-2-million-android-tablets-actually-in-use-20055%2F+RIM+Playbook+mit+Android...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2011/07/29/10-nfc-und-ben-und-bla/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid-010-nfc-und-ben-und-bla.mp3" length="34970286" type="audio/mpeg" /><itunes:duration>00:55:52</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#9 NotionInk Adam</title>
+		<link>https://pandroid.c-base.org/2011/07/16/9-notionink-adam/</link>
+		<pubDate>Sat, 16 Jul 2011 18:17:06 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=311</guid>
+		<description><![CDATA[#9 NotionInk Adam]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2011%2F07%2F16%2F9-notionink-adam%2F&amp;language=de_DE&amp;category=audio&amp;title=%239+NotionInk+Adam&amp;description=Aus+dem+Winterschlaf+erwacht+melden+wir+uns+wieder.+Frisch+aus+dem+neuen+Studio.+NotionInk+http%3A%2F%2Fwww.notionink.com%2F+NotionInk+Adam+%26%238211%3B+Techspecs+http%3A%2F%2Fwww.notionink.com%2Ftechspecs.php+Pixel+QI+Display+http%3A%2F%2Fwww.pixelqi.com%2F+Weitere+Pixel+QI+Tablets+in+der...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2011/07/16/9-notionink-adam/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/2011-07-11-22_00_00.output1.mp3" length="29807373" type="audio/mpeg" /><itunes:duration>00:31:03</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#8 mwc rückblick und droidcon ausblick</title>
+		<link>https://pandroid.c-base.org/2011/03/14/8-mwc-ruckblick-und-droidcon-ausblick/</link>
+		<pubDate>Mon, 14 Mar 2011 08:43:00 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=292</guid>
+		<description><![CDATA[#8 mwc rückblick und droidcon ausblick]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2011%2F03%2F14%2F8-mwc-ruckblick-und-droidcon-ausblick%2F&amp;language=de_DE&amp;category=audio&amp;title=%238+mwc+r%C3%BCckblick+und+droidcon+ausblick&amp;description=Mobile+World+Congress+2011+%28in+Barcelona%29+http%3A%2F%2Fwww.mobileworldcongress.com%2F+EXOPC+http%3A%2F%2Fwww.exopc.com%2F+Intel+AppUp+http%3A%2F%2Fwww.appup.com%2Fapplications%2Findex+Meego+Tablet+Edition+http%3A%2F%2Fappdeveloper.intel.com%2Fen-us%2Fmeego-iso-esla+WeTab+http%3A%2F%2Fwetab.mobi+NFC+http%3A%2F%2Fwww.nxp.com%2Fcountry%2Fgermany%2Fnews%2Fcontent%2Ffile_1830.html+QT+Apps+in+Android+http%3A%2F%2Fgitorious.org%2F%7Etaipan%2Fqt%2Fandroid-lighthouse+Fragments+API+http%3A%2F%2Fdeveloper.android.com%2Fguide%2Ftopics%2Ffundamentals%2Ffragments.html+In+App...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2011/03/14/8-mwc-ruckblick-und-droidcon-ausblick/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid-008-mwc-rueckblick-und-droicon-ausblick.mp3" length="45562353" type="audio/mpeg" /><itunes:duration>00:00:00</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#6: 27c3 review</title>
+		<link>https://pandroid.c-base.org/2011/01/16/6-27c3-review/</link>
+		<pubDate>Sun, 16 Jan 2011 14:02:41 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=249</guid>
+		<description><![CDATA[#6: 27c3 review]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2011%2F01%2F16%2F6-27c3-review%2F&amp;language=de_DE&amp;category=audio&amp;title=%236%3A+27c3+review&amp;description=27.Chaos+Communication+Congress+http%3A%2F%2Fevents.ccc.de%2Fcongress%2F2010%2Fwiki%2FMain_Page+Fahrplan+Apps+http%3A%2F%2Fwww.appbrain.com%2Fsearch%3Fq%3D27c3+Sony+Ericsson+Xperia+mini+http%3A%2F%2Fwww.engadget.com%2F2010%2F07%2F08%2Fsony-ericsson-xperia-x10-mini-mini-pro-review%2F+Kongressvideos+http%3A%2F%2Fmedia.ccc.de%2Ftags%2F27c3.html+mobile+macs+http%3A%2F%2Fmobilemacs.de%2F+fanboys+http%3A%2F%2Ffanb%C3%B3ys.org%2F+fnordfunk+http%3A%2F%2Ffnordfunk.cccmz.de%2Findex.php%3F%2Farchives%2F117-Fnordfunk-060-27C3-Chaos-Communication-Congress.html+OsmocomBB+http%3A%2F%2Fbb.osmocom.org%2Ftrac%2F+GSM+Wideband+Sniffing+http%3A%2F%2Fmedia.ccc.de%2Fbrowse%2Fcongress%2F2010%2F27c3-4208-en-wideband_gsm_sniffing.html+All+your+baseband...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2011/01/16/6-27c3-review/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/nummer6.mp3" length="33042000" type="audio/mpeg" /><itunes:duration>00:00:00</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#5: Gingerbread AOSP</title>
+		<link>https://pandroid.c-base.org/2010/12/25/5-gingerbread-aosp/</link>
+		<pubDate>Sat, 25 Dec 2010 09:47:47 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=233</guid>
+		<description><![CDATA[#5: Gingerbread AOSP]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2010%2F12%2F25%2F5-gingerbread-aosp%2F&amp;language=de_DE&amp;category=audio&amp;title=%235%3A+Gingerbread+AOSP&amp;description=WikiLeaks+App+nicht+mehr+im+iOS+App+Store+http%3A%2F%2Fwww.readwriteweb.com%2Farchives%2Fwikileaks_app_yanked_from_app_store.php+Letzten+Freitag+in+der+c-base+http%3A%2F%2Flogbuch.c-base.org%2F%3Fp%3D1010+AppInventor+f%C3%BCr+alle+http%3A%2F%2Fappinventor.googlelabs.com%2F+TweetDeck+http%3A%2F%2Fwww.appbrain.com%2Fapp%2Ftweetdeck-%28twitter-facebook%29%2Fcom.thedeck.android.app+Twidroyd+http%3A%2F%2Fwww.appbrain.com%2Fapp%2Ftwitter%2Fcom.twitter.android+Twitter+App+von+Twitter+http%3A%2F%2Fwww.appbrain.com%2Fapp%2Ftwitter%2Fcom.twitter.android+AOSP+http%3A%2F%2Fsource.android.com%2F...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2010/12/25/5-gingerbread-aosp/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid-005-aosp-gingerbread-release.mp3" length="118473142" type="audio/mpeg" /><itunes:duration>01:05:31</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#4: JMStV ignorieren</title>
+		<link>https://pandroid.c-base.org/2010/12/07/4-jmstv-ignorieren/</link>
+		<pubDate>Tue, 07 Dec 2010 00:05:37 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=206</guid>
+		<description><![CDATA[#4: JMStV ignorieren]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2010%2F12%2F07%2F4-jmstv-ignorieren%2F&amp;language=de_DE&amp;category=audio&amp;title=%234%3A+JMStV+ignorieren&amp;description=JMStV+http%3A%2F%2Folbertz.de%2Fblog%2Fjmstv%2F+K%C3%B6hntopp+Offline+http%3A%2F%2Fkoehntopp.de%2F+Notion+Ink+Adam+http%3A%2F%2Fwww.notionink.com%2F+Sony+Zeus+Z1+http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DO6cxaVRs60w%26amp%3Bfeature%3Dplayer_embedded+Angry+Birds+Seasons+http%3A%2F%2Fwww.androidcentral.com%2Fangry-birds-seasons-now-available+AdFree-Android+%28braucht+root%29+http%3A%2F%2Fwww.androidpit.de%2Fde%2Fandroid%2Fmarket%2Fapps%2Fapp%2Fcom.bigtincan.android.adfree%2FAdFree-Android+Gingerbread+SDK+http%3A%2F%2Fdeveloper.android.com%2Fsdk%2Fandroid-2.3.html+Nexus+S+http%3A%2F%2Fwww.google.com%2Fnexus%2F+Mapsforge+http%3A%2F%2Fcode.google.com%2Fp%2Fmapsforge%2F+OpenCellId...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2010/12/07/4-jmstv-ignorieren/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid-004-jmstv-ignorieren.mp3" length="42193016" type="audio/mpeg" /><itunes:duration>00:22:57</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#3: Post GDD</title>
+		<link>https://pandroid.c-base.org/2010/11/18/3-post-gdd/</link>
+		<pubDate>Thu, 18 Nov 2010 19:39:57 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=155</guid>
+		<description><![CDATA[#3: Post GDD]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2010%2F11%2F18%2F3-post-gdd%2F&amp;language=de_DE&amp;category=audio&amp;title=%233%3A+Post+GDD&amp;description=GDD+M%C3%BCnchen+http%3A%2F%2Fwww.google.com%2Fevents%2Fdeveloperday%2F2010%2Fmunich%2Findex.html+GTUG-Bootcamp+http%3A%2F%2Fmunich.gtugs.org%2Fgdd10hackathon+Blinkenlights+http%3A%2F%2Fblinkenlights.net%2F+Blinkendroid+http%3A%2F%2Fcode.google.com%2Fp%2Fblinkendroid%2F+Droidcamp+Stuttgart+http%3A%2F%2Fstuttgartgtug.blogspot.com%2F2010%2F06%2Fhow-to-manage-blinkendroid-world.html+SAE+M%C3%BCnchen+http%3A%2F%2Fmuenchen.sae.edu%2Fde%2Fhome%2F+Toshiba+AC100+%28Tech+Spec%29+http%3A%2F%2Fpdadb.net%2Findex.php%3Fm%3Dspecs%26amp%3Bid%3D2580%26amp%3Bview%3D1%26amp%3Bc%3Dtoshiba_ac-100-10u+Tegra+http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNvidia_Tegra+ConnectBot+http%3A%2F%2Fcode.google.com%2Fp%2Fconnectbot%2F+Teleportr+http%3A%2F%2Fteleportr.net%2F+Smart+Space+http%3A%2F%2Fwww.droidcon.de%2Fde%2Fprogramm-conf%2F33-smart-space-an-indoor-positioning-framework+Processing...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2010/11/18/3-post-gdd/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid-003-gdd-rueckblick.mp3" length="85367818" type="audio/mpeg" /><itunes:duration>00:47:12</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#2: OpenIntents</title>
+		<link>https://pandroid.c-base.org/2010/11/03/2-openintents/</link>
+		<pubDate>Wed, 03 Nov 2010 19:05:59 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=139</guid>
+		<description><![CDATA[#2: OpenIntents]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2010%2F11%2F03%2F2-openintents%2F&amp;language=de_DE&amp;category=audio&amp;title=%232%3A+OpenIntents&amp;description=Android+Developer+Challenge+http%3A%2F%2Fcode.google.com%2Fandroid%2Fadc%2Fadc_gallery%2F+Android+Stammtisch+Berlin+http%3A%2F%2Fwww.android-in-berlin.de%2F+c-base+http%3A%2F%2Fc-base.org%2F+Open+Intents+http%3A%2F%2Fwww.openintents.org%2Fen%2F+Registry+of+intents+http%3A%2F%2Fwww.openintents.org%2Fen%2Fintentstable+Android+Intent+Dokumentation+http%3A%2F%2Fdeveloper.android.com%2Freference%2Fandroid%2Fcontent%2FIntent.html+Wikinotes+http%3A%2F%2Fdeveloper.android.com%2Fresources%2Farticles%2Fwikinotes-intents.html+Android+Manifest+Dokumentation+http%3A%2F%2Fdeveloper.android.com%2Fguide%2Ftopics%2Fmanifest%2Fmanifest-intro.html+Google+App+%C2%A0Engine...&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2010/11/03/2-openintents/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid-002-openintents.mp3" length="22078966" type="audio/mpeg" /><itunes:duration>00:13:13</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#2: c-base mobile interface project</title>
+		<link>https://pandroid.c-base.org/2010/10/23/nummer-2-c-base-mobile-interface-project/</link>
+		<pubDate>Sat, 23 Oct 2010 18:40:47 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=21</guid>
+		<description><![CDATA[#2: c-base mobile interface project]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2010%2F10%2F23%2Fnummer-2-c-base-mobile-interface-project%2F&amp;language=de_DE&amp;category=audio&amp;title=%232%3A+c-base+mobile+interface+project&amp;description=cmip+webseite+http%3A%2F%2Fcmip.c-base.org+gitorius+http%3A%2F%2Fdev.c-base.org+cmip+Pr%C3%A4sentation+http%3A%2F%2Fprezi.com%2Fj2rcdguysk1q%2Fcmip-c-base-mobile-interfaces-project%2F+hudson&amp;tags=pandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2010/10/23/nummer-2-c-base-mobile-interface-project/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid-002-cmip.mp3" length="33345599" type="audio/mpeg" /><itunes:duration>00:19:22</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#1: Willkommen</title>
+		<link>https://pandroid.c-base.org/2010/10/23/nummer-1-pandroid/</link>
+		<pubDate>Sat, 23 Oct 2010 18:11:32 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=6</guid>
+		<description><![CDATA[#1: Willkommen]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2010%2F10%2F23%2Fnummer-1-pandroid%2F&amp;language=de_DE&amp;category=audio&amp;title=%231%3A+Willkommen&amp;description=CRE-152%3A+Android+http%3A%2F%2Fchaosradio.ccc.de%2Fcre152.html+Synapse+Phones+http%3A%2F%2Fsynapse-phones.com%2F+netzpolitik+podcast+http%3A%2F%2Fwww.netzpolitik.org%2Fcategory%2Fnetzpolitik-podcast%2F+AndCast+http%3A%2F%2Fandcast.thenetcasts.com%2F+Droid+Boy+http%3A%2F%2Fwww.mogandi.de%2Fdroid-boy%2F+SWR2+Wissen+http%3A%2F%2Fwww.swr.de%2Fswr2%2Fwissen%2F+JavaPosse+http%3A%2F%2Fjavaposse.com%2F+Buzz+out+loud+http%3A%2F%2Fwww.cnet.com%2Fbuzz-out-loud-podcast%2F+Mobile+Macs+http%3A%2F%2Fmobilemacs.de+Bits+und+so+http%3A%2F%2Fbitsundso.de...&amp;tags=entwicklung%2Cnews%2Cpolitik%2Crant%2Cpandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2010/10/23/nummer-1-pandroid/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/pandroid-001-willkommen.mp3" length="24904484" type="audio/mpeg" /><itunes:duration>00:14:12</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>#0: Zu Gast bei mikro.FM</title>
+		<link>https://pandroid.c-base.org/2010/10/20/zu-gast-bei-mikro-fm/</link>
+		<pubDate>Wed, 20 Oct 2010 15:12:37 +0000</pubDate>
+		<guid isPermaLink="false">http://pandroid.c-base.org/?p=1</guid>
+		<description><![CDATA[#0: Zu Gast bei mikro.FM]]></description>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=biafra&amp;popout=1&amp;url=https%3A%2F%2Fpandroid.c-base.org%2F2010%2F10%2F20%2Fzu-gast-bei-mikro-fm%2F&amp;language=de_DE&amp;category=audio&amp;title=%230%3A+Zu+Gast+bei+mikro.FM&amp;description=Die+Geburtsstunde+unseres+Podcasts+haben+wir+ganz+frech+zur%C3%BCckdatiert.+Am+19.10.2010+hatten+wir+%28t%2C+flo+und+dirk%29+einen+Gastauftritt+beim+mikro.fm+im+piradio.+Danach+beschlossen+t+und+ich+einen+eigenen...&amp;tags=mikro.fm%2Cpandroid" type="text/html" />
+<atom:link rel="http://podlove.org/deep-link" href="https://pandroid.c-base.org/2010/10/20/zu-gast-bei-mikro-fm/#" /><enclosure url="http://bitstaub.diskordia.org/wp-uploads/292-04-2010-10-19-22_30-mikro.FM-Die-Pi-Radio-Show.mp3" length="103250859" type="audio/mpeg" /><itunes:duration>00:00:00</itunes:duration><itunes:author></itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+	</channel>
+</rss>
